@@ -1,16 +1,16 @@
-### Hi there 👋
+# Research Field
+* Spintronics
+* Magneto-optics
 
-<!--
-**y-marui/y-marui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Favorites
+- 観葉植物
+- 自転車
+- 料理
+- プログラミング
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Links
+- [Gravatar](https://ja.gravatar.com/hitorigotomemo): アイコン
+- [GitHub](https://github.com/y-marui)
+  - [gist](https://gist.github.com/y-marui)
+- [Twitter](https://twitter.com/_y_marui)
+- [note](https://note.com/y_marui)
