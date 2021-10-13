@@ -1,4 +1,6 @@
 title: Yukihiro
+description: GitHub profile
+repository: y-marui/y-marui
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-target-blank
