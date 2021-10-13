@@ -1,6 +1,7 @@
 title: Yukihiro
 description: GitHub profile
 repository: y-marui/y-marui
+external_link: true
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-target-blank
+# plugins:
+  # - jekyll-target-blank
