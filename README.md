@@ -9,7 +9,7 @@
 - プログラミング
 
 # Index
-- [Physics](physics.md)
+- [Physics](doc/physics.md)
 - [Programming](doc/programming.md)
 
 # Links
