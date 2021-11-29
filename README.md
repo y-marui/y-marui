@@ -3,14 +3,9 @@
 * Magneto-optics
 
 # Favorites
-- 観葉植物
+- [物理](doc/physics.md)
+- [プログラミング](doc/programming.md)
 - 自転車
-- 料理
-- プログラミング
-
-# Index
-- [Physics](doc/physics.md)
-- [Programming](doc/programming.md)
 
 # Links
 - [Gravatar](https://ja.gravatar.com/hitorigotomemo): アイコン
