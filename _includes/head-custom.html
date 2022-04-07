@@ -1,0 +1,13 @@
+<link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>
+  $(function() {
+    $('a').each(function() {
+      var a = new RegExp('/' + window.location.host + '/');
+      if (!a.test(this.href)) {
+        $(this).attr({'target':'_blank', 'rel':'noopener noreferrer'});
+      }
+    });
+  });
+</script>
