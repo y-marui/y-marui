@@ -4,7 +4,7 @@
 * [おすすめの論文 \- Google Scholar](https://scholar.google.com/scholar?sciupd=1)
 
 ## Tools
-* [Wolfram|Alpha](https://www.wolframalpha.com/): Online版Mathematica
+* [Wolfram\|Alpha](https://www.wolframalpha.com/): Online版Mathematica
 * [WebPlotDigitizer \- Extract data from plots, images, and maps](https://automeris.io/WebPlotDigitizer/): グラフの数値化
 
 ## DFT
