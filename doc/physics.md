@@ -1,7 +1,7 @@
 # 物理
 ## 論文
-* [Google Scholar](https://scholar.google.com/)
-* [おすすめの論文 \- Google Scholar](https://scholar.google.com/scholar?sciupd=1)
+* [Google Scholar](https://scholar.google.com/?authuser=1)
+* [おすすめの論文 \- Google Scholar](https://scholar.google.com/scholar?sciupd=1&authuser=1)
 
 ## Tools
 * [Wolfram\|Alpha](https://www.wolframalpha.com/): Online版Mathematica
