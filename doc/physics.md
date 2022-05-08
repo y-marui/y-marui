@@ -18,3 +18,6 @@
 * [The periodic table of the elements by WebElements](https://www.webelements.com/): 元素の結晶構造の一覧
 * [Inorganic Material Database](https://crystdb.nims.go.jp/crystdb/search-materials): NIMSの物性データベース
 * [バンド計算関連用語集](http://www.bandstructure.jp/INTRO/yogo.html)
+
+## 論文紹介
+* [論文紹介で失敗しないために心がけるべき準備のコツとは？【質問の荒波をくぐり抜けろ】｜くりぷとアナリティクス](https://www.cryptocurrency-bioresearch.com/journalclub-knowhow)
