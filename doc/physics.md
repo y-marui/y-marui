@@ -35,3 +35,4 @@
 * [ファインマンの経路積分に入門しよう！ \- とね日記](https://blog.goo.ne.jp/ktonegaw/e/0f47de5854daf4eb38339a73791544a8)
 * [海外で研究者や大学教授になる方法: おすすめの半導体教科書](https://life-of-regret.blogspot.com/2016/02/blog-post.html)
 * [参考になる書籍](https://natsuhaze.jp/rf/books.htm)
+* [rcmdBook\.html](https://yoshinobu.issp.u-tokyo.ac.jp/rcmdbook.html)
