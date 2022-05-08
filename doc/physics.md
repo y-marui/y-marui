@@ -4,6 +4,7 @@
 ## 論文
 * [Google Scholar](https://scholar.google.com/?authuser=1)
 * [おすすめの論文 \- Google Scholar](https://scholar.google.com/scholar?sciupd=1&authuser=1)
+* [arXiv Analytics](http://arxitics.com/)
 
 ## Tools
 * [Wolfram\|Alpha](https://www.wolframalpha.com/): Online版Mathematica
@@ -24,3 +25,12 @@
 ## 論文紹介
 * [論文紹介で失敗しないために心がけるべき準備のコツとは？【質問の荒波をくぐり抜けろ】｜くりぷとアナリティクス](https://www.cryptocurrency-bioresearch.com/journalclub-knowhow)
 * [ジャーナルクラブのじゅんび \- あらいぐまのしっぽ。](https://blog.goo.ne.jp/for-your-impression/e/4b0ed5f78042c74e3f30c65c073e0d02)
+* [ジャーナルクラブを最大限活用するための心得と方法 \[論文選びから準備・質問の仕方まで\] \| minoblog](https://ocoshite.me/how-to-introduce-research-papers)
+
+## Books
+* [Book guide for physics](http://maya.phys.kyushu-u.ac.jp/~knomura/research/guide-phys/bookguide-phys.shtml.ja)
+* [物性物理学・固体物理学 \- 大学生のための参考書・教科書 @ ウィキ \- atwiki（アットウィキ）](https://w.atwiki.jp/physicswiki/sp/pages/23.html)
+* [books](https://as2.c.u-tokyo.ac.jp/~shmz/books.html)
+* [ファインマンの経路積分に入門しよう！ \- とね日記](https://blog.goo.ne.jp/ktonegaw/e/0f47de5854daf4eb38339a73791544a8)
+* [海外で研究者や大学教授になる方法: おすすめの半導体教科書](https://life-of-regret.blogspot.com/2016/02/blog-post.html)
+* [参考になる書籍](https://natsuhaze.jp/rf/books.htm)
