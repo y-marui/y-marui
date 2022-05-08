@@ -21,4 +21,6 @@
 * [Inorganic Material Database](https://crystdb.nims.go.jp/crystdb/search-materials): NIMSの物性データベース
 * [バンド計算関連用語集](http://www.bandstructure.jp/INTRO/yogo.html)
 
+## 論文紹介
+* [論文紹介で失敗しないために心がけるべき準備のコツとは？【質問の荒波をくぐり抜けろ】｜くりぷとアナリティクス](https://www.cryptocurrency-bioresearch.com/journalclub-knowhow)
 * [ジャーナルクラブのじゅんび \- あらいぐまのしっぽ。](https://blog.goo.ne.jp/for-your-impression/e/4b0ed5f78042c74e3f30c65c073e0d02)
