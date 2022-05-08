@@ -1,4 +1,6 @@
 # 物理
+* [日本物理学会](https://sso.jps.or.jp/openam/UI/Login)
+
 ## 論文
 * [Google Scholar](https://scholar.google.com/?authuser=1)
 * [おすすめの論文 \- Google Scholar](https://scholar.google.com/scholar?sciupd=1&authuser=1)
@@ -18,3 +20,5 @@
 * [The periodic table of the elements by WebElements](https://www.webelements.com/): 元素の結晶構造の一覧
 * [Inorganic Material Database](https://crystdb.nims.go.jp/crystdb/search-materials): NIMSの物性データベース
 * [バンド計算関連用語集](http://www.bandstructure.jp/INTRO/yogo.html)
+
+* [ジャーナルクラブのじゅんび \- あらいぐまのしっぽ。](https://blog.goo.ne.jp/for-your-impression/e/4b0ed5f78042c74e3f30c65c073e0d02)
