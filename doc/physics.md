@@ -6,6 +6,16 @@
 * [おすすめの論文 \- Google Scholar](https://scholar.google.com/scholar?sciupd=1&authuser=1)
 * [arXiv Analytics](http://arxitics.com/)
 
+## Informative
+- [Oxford Scholarship](https://oxford.universitypressscholarship.com/)
+- [IntechOpen](https://www.intechopen.com/)
+- [arXiv Analytics](http://arxitics.com/)
+- [JPS Hot Topics](https://jpsht.jps.jp/)
+- [物性研究・電子版](http://mercury.yukawa.kyoto-u.ac.jp/~bussei.kenkyu/archives/section/02000)
+- [ラーニング・サポーターによる講習会のテキスト](https://www.library.osaka-u.ac.jp/ta_lectures/)
+- [JREC\-IN Portal](https://jrecin.jst.go.jp/)
+- [Open VSX Registry](https://open-vsx.org/)
+
 ## Tools
 * [Wolfram\|Alpha](https://www.wolframalpha.com/): Online版Mathematica
 * [WebPlotDigitizer \- Extract data from plots, images, and maps](https://automeris.io/WebPlotDigitizer/): グラフの数値化
