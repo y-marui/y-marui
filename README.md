@@ -1,13 +1,14 @@
-# Research Field
+# Yukihiro
+## Research Field
 * Spintronics
 * Magneto-optics
 
-# Favorites
+## Favorites
 - [物理](doc/physics.md)
 - [プログラミング](doc/programming.md)
 - 自転車
 
-# Links
+## Links
 - [Gravatar](https://ja.gravatar.com/hitorigotomemo): アイコン
 - [GitHub](https://github.com/y-marui)
   - [gist](https://gist.github.com/y-marui)

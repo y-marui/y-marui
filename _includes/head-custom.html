@@ -16,16 +16,16 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.21/jquery.csv.min.js"></script>
 <script>
-  const base = 'https://y-marui.github.io/y-marui';
+  const base='https://y-marui.github.io/y-marui';
   const csvfile = 'https://y-marui.github.io/y-marui/toc.csv';
-  function update_navi(data) {
+  function update_navi(data){
     const csv = $.csv.toArrays(data);
-    $(csv).each((row, val) => {
+    $(csv).each((row, val)=>{
       var item = document.createElement('li');
       var a = document.createElement('a');
       item.appendChild(a);
       a.textContent = $.trim(val[0]);
-      a.href = $.trim(val[1]);
+      a.href = $.trim(val[1]); 
       if (!a.href.startsWith(base)) {
         a.setAttribute("target", "_blank");
         a.setAttribute("rel", "noopener noreferrer");
@@ -33,5 +33,5 @@
       $('#navi-array').append(item.outerHTML);
     });
   }
-  $(function () { $.get(csvfile, update_navi, 'text'); });
+  $(function () {$.get(csvfile, update_navi, 'text');});
 </script>
