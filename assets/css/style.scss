@@ -1,0 +1,49 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header #toc {
+    position: static;
+}
+
+header #toc ul {
+    position: static;
+}
+
+#navi {
+    position: fixed;
+    text-align: right;
+    right: 0;
+    top: 0;
+    padding: 50px;
+    display: block;
+    font-size: 12pt;
+    list-style-type: none;
+}
+
+#navi span {
+    background: white;
+    padding: 5px;
+}
+
+#navi li ul {
+    color: white;
+    list-style-type: none;
+}
+
+#navi li ul li {
+    overflow: hidden;
+    height: 0;
+    color: white;
+}
+
+#navi li ul li a {
+    background: white;
+    padding: 5px 15px;
+}
+
+#navi li:hover ul li {
+    overflow: visible;
+    height: 30px;
+}
