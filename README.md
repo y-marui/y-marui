@@ -1,17 +1,16 @@
 # Yukihiro
+- [Gravatar](https://ja.gravatar.com/hitorigotomemo): アイコン
+- [note](https://note.com/y_marui)
+
 ## Research Field
 - Spintronics
 - Magneto-optics
 
-## Favorites
-- [物理](doc/physics.md)
-- [プログラミング](doc/programming.md)
-- 自転車
+## Physics [🔗](doc/physics.md)
+- [読書メーター](https://bookmeter.com/users/1068574): 理学書
+- [Twitter](https://twitter.com/_y_marui): 物理と研究活動
 
-## Links
-- [Gravatar](https://ja.gravatar.com/hitorigotomemo): アイコン
+## Programming [🔗](doc/programming.md)
+- [Qiita](https://qiita.com/y_marui)
 - [GitHub](https://github.com/y-marui)
   - [gist](https://gist.github.com/y-marui)
-- [Twitter](https://twitter.com/_y_marui)
-- [note](https://note.com/y_marui)
-- [Qiita](https://qiita.com/y_marui)
