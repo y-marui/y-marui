@@ -1,7 +1,7 @@
 # Yukihiro
 ## Research Field
-* Spintronics
-* Magneto-optics
+- Spintronics
+- Magneto-optics
 
 ## Favorites
 - [物理](doc/physics.md)
