@@ -54,3 +54,6 @@
 - [海外で研究者や大学教授になる方法: おすすめの半導体教科書](https://life-of-regret.blogspot.com/2016/02/blog-post.html)
 - [参考になる書籍](https://natsuhaze.jp/rf/books.htm)
 - [rcmdBook\.html](https://yoshinobu.issp.u-tokyo.ac.jp/rcmdbook.html)
+
+## English
+- [Textbooks for foreign speakers](https://onlinebooks.library.upenn.edu/webbin/book/browse?type=lcsubc&key=Textbooks%20for%20foreign%20speakers): 300 word in 30 min
