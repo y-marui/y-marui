@@ -2,13 +2,13 @@
 - [日本物理学会](https://sso.jps.or.jp/openam/UI/Login)
 
 ## Daily
-- [Google Scholar](https://scholar.google.com/scholar?sciupd=1&authuser=1)
+- [Google Scholar](https://scholar.google.com/scholar?sciupd=1&authuser=0)
 - arXiv
   - [Mesoscale and Nanoscale Physics](https://arxiv.org/list/cond-mat.mes-hall/new)
   - [Materials Science](https://arxiv.org/list/cond-mat.mtrl-sci/new)
 - [Journal Club for Condensed Matter Physics](https://www.condmatjclub.org/)
 - YouTube
-  - [Online Spintronics Seminar Series](https://www.youtube.com/channel/UChs8ImllSSRfc_VEUi7m2Pw/videos)
+  - [Online Spintronics Seminar Series [Web]](https://www.spintalks.org/talks) [[YouTube]](https://www.youtube.com/channel/UChs8ImllSSRfc_VEUi7m2Pw/videos)
   - [Laboratorio Resonancias Magnéticas](https://www.youtube.com/channel/UCzHLX1covGwhDqIdOZx9FoA/videos)
   - [Topological Matter School](https://www.youtube.com/channel/UCXlN-CTCH5j4Kiec6YlSf9w/videos)
   - [Materials Cloud](https://www.youtube.com/c/MaterialsCloud/videos)
