@@ -6,6 +6,8 @@
 - arXiv
   - [Mesoscale and Nanoscale Physics](https://arxiv.org/list/cond-mat.mes-hall/new)
   - [Materials Science](https://arxiv.org/list/cond-mat.mtrl-sci/new)
+  - [Applied Physics](https://arxiv.org/list/physics.app-ph/new)
+  - [Quantum Physics](https://arxiv.org/list/quant-ph/new)
 - [Journal Club for Condensed Matter Physics](https://www.condmatjclub.org/)
 - YouTube
   - [Online Spintronics Seminar Series [Web]](https://www.spintalks.org/talks) [[YouTube]](https://www.youtube.com/channel/UChs8ImllSSRfc_VEUi7m2Pw/videos)
