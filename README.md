@@ -6,7 +6,7 @@
 - Spintronics
 - Magneto-optics
 
-## Physics [🔗](doc/physics.md)
+## Physics
 - [読書メーター](https://bookmeter.com/users/1068574): 理学書
 - [Twitter](https://twitter.com/_y_marui): 物理と研究活動
 
