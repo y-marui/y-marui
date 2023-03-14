@@ -16,4 +16,6 @@
   - [SSH from 最初に入れるやつら2021 - Qiita](https://qiita.com/y_marui/items/03fb3298777c33ba2ff4)
   - [Python (miniforge) from 最初に入れるやつら2021 - Qiita](https://qiita.com/y_marui/items/34e9636a3023b57fbbd1)
 - [GitHub](https://github.com/y-marui)
+  - [y\-marui / python\_to\_originlab](https://github.com/y-marui/python_to_originlab) 
+  - [y\-marui / astropy\-extension](https://github.com/y-marui/astropy-extension)
   - [gist](https://gist.github.com/y-marui)
