@@ -8,6 +8,7 @@ University researcher in Japan.
 ## Projects
 - Chrome Extention
   - [Zotero Library Checker - Duplicate Reference Detection](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai): Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
+  - [Focus Scope - Smart Website Blocker](https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg): Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
 
 - Python Library
   - [y\-marui / python\_to\_originlab](https://github.com/y-marui/python_to_originlab) 
