@@ -1,4 +1,4 @@
-# Yukihiro
+# Yukihiro Marui
 University researcher in Japan.
 
 ## Research Field
