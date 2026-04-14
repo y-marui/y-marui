@@ -12,14 +12,15 @@ University researcher in Japan.
 
 ## Projects
 
-### Browser Extensions
-- [Zotero Library Checker - Duplicate Reference Detection ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai): Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
-- [Focus Scope - Smart Website Blocker ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg): Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
-
-### Alfred Workflows
-- [y\-marui / alfred\-quick\-txt\-save](https://github.com/y-marui/alfred-quick-txt-save): Save selected text or clipboard content as a file instantly using Alfred
-- [y\-marui / alfred\-note\-table\-converter](https://github.com/y-marui/alfred-note-table-converter): Convert tables between Markdown and LaTeX for note
-- [y\-marui / alfred\-note\-md\-template](https://github.com/y-marui/alfred-note-md-template): Add Markdown style template to note
+### General
+- [y\-marui / dev\-charter](https://github.com/y-marui/dev-charter): Personal development charter for AI-assisted software projects.
+  - **Templates**
+    - [y\-marui / python\-package\-template](https://github.com/y-marui/python-package-template): AI-native Python template for Poetry + Claude Code + GitHub Copilot
+    - [y\-marui / python\-closed\-template](https://github.com/y-marui/python-closed-template): AI-native private Python template for Poetry + Claude Code + GitHub Copilot
+    - [y\-marui / chrome\-closed\-template](https://github.com/y-marui/chrome-closed-template): AI-native private Chrome extension template for Claude Code + GitHub Copilot
+    - [y\-marui / swift\-closed\-template](https://github.com/y-marui/swift-closed-template): AI-native private Swift app template for Claude Code + GitHub Copilot
+    - [y\-marui / alfred\-workflow\-template](https://github.com/y-marui/alfred-workflow-template): AI-native Alfred workflow template for Claude Code + GitHub Copilot
+- [y\-marui / dotfiles](https://github.com/y-marui/dotfiles)
 
 ### Python
 - [y\-marui / python\-matplotlib\-to\-originlab](https://github.com/y-marui/python-matplotlib-to-originlab): Python tools to convert matplotlib figures to OriginLab graphs, to send data to Origin, and perform basic plotting functions in Origin.
@@ -30,6 +31,15 @@ University researcher in Japan.
 - [y\-marui / click\-default\-group](https://github.com/y-marui/click-default-group): Extends click.Group to invoke a command without explicit subcommand name.
 - [y\-marui / click\-default\-group\-colors](https://github.com/y-marui/click-default-group-colors): Combine `DefaultGroup` and `HelpColorsGroup` for click
 
+### Browser Extensions
+- [Zotero Library Checker - Duplicate Reference Detection ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai): Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
+- [Focus Scope - Smart Website Blocker ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg): Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
+
+### Alfred Workflows
+- [y\-marui / alfred\-quick\-txt\-save](https://github.com/y-marui/alfred-quick-txt-save): Save selected text or clipboard content as a file instantly using Alfred
+- [y\-marui / alfred\-note\-table\-converter](https://github.com/y-marui/alfred-note-table-converter): Convert tables between Markdown and LaTeX for note
+- [y\-marui / alfred\-note\-md\-template](https://github.com/y-marui/alfred-note-md-template): Add Markdown style template to note
+
 ### LaTeX
 - [y\-marui / latex\-masters\-doctoral\-thesis\-jp](https://github.com/y-marui/latex-masters-doctoral-thesis-jp): LaTeX template for Masters/Doctoral Thesis in Japanese.
 - [y\-marui / latex\-tikz\-3d\-cube](https://github.com/y-marui/latex-tikz-3d-cube): tikz library to draw 3d cube
@@ -37,18 +47,6 @@ University researcher in Japan.
 
 ### LabVIEW
 - [y\-marui / labview\-notify\-ms\-teams](https://github.com/y-marui/labview-notify-ms-teams)
-
-### Dev Charter
-- [y\-marui / dev\-charter](https://github.com/y-marui/dev-charter): Personal development charter for AI-assisted software projects.
-  - **Templates**
-    - [y\-marui / python\-package\-template](https://github.com/y-marui/python-package-template): AI-native Python template for Poetry + Claude Code + GitHub Copilot
-    - [y\-marui / python\-closed\-template](https://github.com/y-marui/python-closed-template): AI-native private Python template for Poetry + Claude Code + GitHub Copilot
-    - [y\-marui / chrome\-closed\-template](https://github.com/y-marui/chrome-closed-template): AI-native private Chrome extension template for Claude Code + GitHub Copilot
-    - [y\-marui / swift\-closed\-template](https://github.com/y-marui/swift-closed-template): AI-native private Swift app template for Claude Code + GitHub Copilot
-    - [y\-marui / alfred\-workflow\-template](https://github.com/y-marui/alfred-workflow-template): AI-native Alfred workflow template for Claude Code + GitHub Copilot
-
-### Dotfiles
-- [y\-marui / dotfiles](https://github.com/y-marui/dotfiles)
 
 ### Other Code Scraps
 - [gist](https://gist.github.com/y-marui)
