@@ -1,21 +1,57 @@
 # Yukihiro Marui
 University researcher in Japan.
 
+## Academic Profiles
+- [Google Scholar](https://scholar.google.co.jp/citations?user=hs5E61wAAAAJ&hl=ja)
+- [ORCID](https://orcid.org/0009-0004-7882-308X)
+- [ResearchGate](https://www.researchgate.net/profile/Yukihiro-Marui?ev=hdr_xprf)
+
 ## Research Field
 - Spintronics
 - Magneto-optics
 
 ## Projects
-- Chrome Extention
-  - [Zotero Library Checker - Duplicate Reference Detection](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai): Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
-  - [Focus Scope - Smart Website Blocker](https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg): Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
 
-- Python Library
-  - [y\-marui / python\_to\_originlab](https://github.com/y-marui/python_to_originlab) 
-  - [y\-marui / astropy\-extension](https://github.com/y-marui/astropy-extension)
+### Chrome Extension
+- [Zotero Library Checker - Duplicate Reference Detection](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai): Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
+- [Focus Scope - Smart Website Blocker](https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg): Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
 
-- Other Code Scraps
-  - [gist](https://gist.github.com/y-marui)
+### Alfred Workflows
+- [y\-marui / alfred\-quick\-txt\-save](https://github.com/y-marui/alfred-quick-txt-save): Save selected text or clipboard content as a file instantly using Alfred
+- [y\-marui / alfred\-note\-table\-converter](https://github.com/y-marui/alfred-note-table-converter): Convert tables between Markdown and LaTeX for note
+- [y\-marui / alfred\-note\-md\-template](https://github.com/y-marui/alfred-note-md-template): Add Markdown style template to note
+
+### Python
+- [y\-marui / python\-matplotlib\-to\-originlab](https://github.com/y-marui/python-matplotlib-to-originlab): Python tools to convert matplotlib figures to OriginLab graphs, to send data to Origin, and perform basic plotting functions in Origin.
+- [y\-marui / python\-matplotlib\-extension](https://github.com/y-marui/python-matplotlib-extension): An extension library for matplotlib
+- [y\-marui / python\-astropy\-extension](https://github.com/y-marui/python-astropy-extension)
+- [y\-marui / python\-stack\-schematic\-generator](https://github.com/y-marui/python-stack-schematic-generator): Generate Stack Schematic
+- [y\-marui / python\-spotify\-tools](https://github.com/y-marui/python-spotify-tools): Spotify playlist management scripts for personal use
+- [y\-marui / click\-default\-group](https://github.com/y-marui/click-default-group): Extends click.Group to invoke a command without explicit subcommand name.
+- [y\-marui / click\-default\-group\-colors](https://github.com/y-marui/click-default-group-colors): Combine `DefaultGroup` and `HelpColorsGroup` for click
+
+### LaTeX
+- [y\-marui / latex\-masters\-doctoral\-thesis\-jp](https://github.com/y-marui/latex-masters-doctoral-thesis-jp): LaTeX template for Masters/Doctoral Thesis in Japanese.
+- [y\-marui / latex\-tikz\-3d\-cube](https://github.com/y-marui/latex-tikz-3d-cube): tikz library to draw 3d cube
+- [y\-marui / latex\-thesis\-template](https://github.com/y-marui/latex-thesis-template): TeXを使って日本語で学位論文等を書くときのテンプレート。
+
+### LabVIEW
+- [y\-marui / labview\-notify\-ms\-teams](https://github.com/y-marui/labview-notify-ms-teams)
+
+### Dev Charter
+- [y\-marui / dev\-charter](https://github.com/y-marui/dev-charter): Personal development charter for AI-assisted software projects.
+  - **Templates**
+    - [y\-marui / python\-package\-template](https://github.com/y-marui/python-package-template): AI-native Python template for Poetry + Claude Code + GitHub Copilot
+    - [y\-marui / python\-closed\-template](https://github.com/y-marui/python-closed-template): AI-native private Python template for Poetry + Claude Code + GitHub Copilot
+    - [y\-marui / chrome\-closed\-template](https://github.com/y-marui/chrome-closed-template): AI-native private Chrome extension template for Claude Code + GitHub Copilot
+    - [y\-marui / swift\-closed\-template](https://github.com/y-marui/swift-closed-template): AI-native private Swift app template for Claude Code + GitHub Copilot
+    - [y\-marui / alfred\-workflow\-template](https://github.com/y-marui/alfred-workflow-template): AI-native Alfred workflow template for Claude Code + GitHub Copilot
+
+### Dotfiles
+- [y\-marui / dotfiles](https://github.com/y-marui/dotfiles)
+
+### Other Code Scraps
+- [gist](https://gist.github.com/y-marui)
 
 ## Posts
 - [Qiita](https://qiita.com/y_marui)
@@ -23,3 +59,7 @@ University researcher in Japan.
   - [Git from 最初に入れるやつら2021 - Qiita](https://qiita.com/y_marui/items/c8bf3e4af3e9d0b09d75)
   - [SSH from 最初に入れるやつら2021 - Qiita](https://qiita.com/y_marui/items/03fb3298777c33ba2ff4)
   - [Python (miniforge) from 最初に入れるやつら2021 - Qiita](https://qiita.com/y_marui/items/34e9636a3023b57fbbd1)
+
+## Support
+- [Buy Me a Coffee](https://www.buymeacoffee.com/y.marui)
+- [GitHub Sponsors](https://github.com/sponsors/y-marui)
