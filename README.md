@@ -12,9 +12,11 @@ University researcher in Japan.
 
 ## Projects
 
-### Chrome Extension
-- [Zotero Library Checker - Duplicate Reference Detection](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai): Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
-- [Focus Scope - Smart Website Blocker](https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg): Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
+### Browser Extensions
+- Zotero Library Checker - Duplicate Reference Detection: Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
+  [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai)
+- Focus Scope - Smart Website Blocker: Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
+  [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg)
 
 ### Alfred Workflows
 - [y\-marui / alfred\-quick\-txt\-save](https://github.com/y-marui/alfred-quick-txt-save): Save selected text or clipboard content as a file instantly using Alfred
