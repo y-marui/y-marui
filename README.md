@@ -22,14 +22,14 @@ University researcher in Japan.
     - [y\-marui / alfred\-workflow\-template](https://github.com/y-marui/alfred-workflow-template): AI-native Alfred workflow template for Claude Code + GitHub Copilot
 - [y\-marui / dotfiles](https://github.com/y-marui/dotfiles)
 
-### Python / Science
-- [y\-marui / python\-matplotlib\-extension](https://github.com/y-marui/python-matplotlib-extension): An extension library for matplotlib
-- [y\-marui / python\-astropy\-extension](https://github.com/y-marui/python-astropy-extension)
-- [y\-marui / python\-matplotlib\-to\-originlab](https://github.com/y-marui/python-matplotlib-to-originlab): Python tools to convert matplotlib figures to OriginLab graphs, to send data to Origin, and perform basic plotting functions in Origin.
-
-### Python / Others
-- [y\-marui / python\-stack\-schematic\-generator](https://github.com/y-marui/python-stack-schematic-generator): Generate Stack Schematic
-- [y\-marui / python\-spotify\-tools](https://github.com/y-marui/python-spotify-tools): Spotify playlist management scripts for personal use
+### Python
+- Science
+  - [y\-marui / python\-matplotlib\-extension](https://github.com/y-marui/python-matplotlib-extension): An extension library for matplotlib
+  - [y\-marui / python\-astropy\-extension](https://github.com/y-marui/python-astropy-extension)
+  - [y\-marui / python\-matplotlib\-to\-originlab](https://github.com/y-marui/python-matplotlib-to-originlab): Python tools to convert matplotlib figures to OriginLab graphs, to send data to Origin, and perform basic plotting functions in Origin.
+- Others
+  - [y\-marui / python\-stack\-schematic\-generator](https://github.com/y-marui/python-stack-schematic-generator): Generate Stack Schematic
+  - [y\-marui / python\-spotify\-tools](https://github.com/y-marui/python-spotify-tools): Spotify playlist management scripts for personal use
 
 ### Browser Extensions
 - [Zotero Library Checker - Duplicate Reference Detection ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai): Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
