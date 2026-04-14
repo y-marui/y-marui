@@ -28,8 +28,6 @@ University researcher in Japan.
 - [y\-marui / python\-astropy\-extension](https://github.com/y-marui/python-astropy-extension)
 - [y\-marui / python\-stack\-schematic\-generator](https://github.com/y-marui/python-stack-schematic-generator): Generate Stack Schematic
 - [y\-marui / python\-spotify\-tools](https://github.com/y-marui/python-spotify-tools): Spotify playlist management scripts for personal use
-- [y\-marui / click\-default\-group](https://github.com/y-marui/click-default-group): Extends click.Group to invoke a command without explicit subcommand name.
-- [y\-marui / click\-default\-group\-colors](https://github.com/y-marui/click-default-group-colors): Combine `DefaultGroup` and `HelpColorsGroup` for click
 
 ### Browser Extensions
 - [Zotero Library Checker - Duplicate Reference Detection ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai): Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
