@@ -7,8 +7,10 @@ University researcher in Japan.
 - [ResearchGate](https://www.researchgate.net/profile/Yukihiro-Marui?ev=hdr_xprf)
 
 ## Research Field
+- Condensed Matter Physics
 - Spintronics
-- Magneto-optics
+- Spin-Orbitronics
+- Magneto-Optics
 
 ## Projects
 
