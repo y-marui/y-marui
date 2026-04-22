@@ -34,7 +34,7 @@ University researcher in Japan.
   - [y\-marui / python\-spotify\-tools](https://github.com/y-marui/python-spotify-tools): Spotify playlist management scripts for personal use
 
 ### Browser Extensions
-- Zotero Library Checker - Duplicate Reference Detection [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/): Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
+- [Zotero Library Checker - Duplicate Reference Detection ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/): Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
 - [Focus Scope - Smart Website Blocker ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg): Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
 
 ### Alfred Workflows
