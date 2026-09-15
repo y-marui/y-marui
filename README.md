@@ -32,15 +32,22 @@ University researcher in Japan.
 - Others
   - [y\-marui / python\-stack\-schematic\-generator](https://github.com/y-marui/python-stack-schematic-generator): Generate Stack Schematic
   - [y\-marui / python\-spotify\-tools](https://github.com/y-marui/python-spotify-tools): Spotify playlist management scripts for personal use
+  - [y\-marui / python\-header\-maker](https://github.com/y-marui/python-header-maker): Python GUI for making header image for note.com
+  - [y\-marui / python\-docx\-redline](https://github.com/y-marui/python-docx-redline): Minimal, safe Word (.docx) tracked-change (redline) editing CLI — comparison-free proofreading edits as real Word revisions
 
 ### Browser Extensions
 - [Zotero Library Checker - Duplicate Reference Detection ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/): Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
-- [Focus Scope - Smart Website Blocker ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg): Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
+- [Focus Scope - Smart Website Blocker ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/focus-scope/): Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
 
 ### Alfred Workflows
 - [y\-marui / alfred\-quick\-txt\-save](https://github.com/y-marui/alfred-quick-txt-save): Save selected text or clipboard content as a file instantly using Alfred
 - [y\-marui / alfred\-note\-table\-converter](https://github.com/y-marui/alfred-note-table-converter): Convert tables between Markdown and LaTeX for note
 - [y\-marui / alfred\-note\-md\-template](https://github.com/y-marui/alfred-note-md-template): Add Markdown style template to note
+- [y\-marui / alfred\-sequential\-number](https://github.com/y-marui/alfred-sequential-number): An Alfred workflow to generate sequential numbers
+- [y\-marui / alfred\-paste\-formatted\-date](https://github.com/y-marui/alfred-paste-formatted-date): Generate and paste dates in multiple formats
+- [y\-marui / alfred\-password\-generator](https://github.com/y-marui/alfred-password-generator): Alfred workflow to generate passwords in an arbitrary way
+- [y\-marui / alfred\-clean\-invisible\-text](https://github.com/y-marui/alfred-clean-invisible-text): Alfred Workflow for reviewing and cleaning dangerous invisible Unicode characters locally
+- [y\-marui / alfred\-markdown\-ref](https://github.com/y-marui/alfred-markdown-ref): Alfred Workflow for renumbering Markdown reference-style links
 
 ### LaTeX
 - [y\-marui / latex\-masters\-doctoral\-thesis\-jp](https://github.com/y-marui/latex-masters-doctoral-thesis-jp): LaTeX template for Masters/Doctoral Thesis in Japanese.
@@ -49,6 +56,12 @@ University researcher in Japan.
 
 ### LabVIEW
 - [y\-marui / labview\-notify\-ms\-teams](https://github.com/y-marui/labview-notify-ms-teams)
+
+### Go
+- [y\-marui / go\-clean\-invisible\-text](https://github.com/y-marui/go-clean-invisible-text): Cross-platform CLI to detect and safely clean dangerous invisible Unicode characters while preserving text semantics
+
+### C#
+- [y\-marui / csharp\-wu\-tray\-toggle](https://github.com/y-marui/csharp-wu-tray-toggle): Control Windows Update pause/resume from a system tray icon using PowerShell
 
 ### Other Code Scraps
 - [gist](https://gist.github.com/y-marui)
