@@ -83,9 +83,10 @@ product:
 本規約は、必要に応じて予告なく変更されることがあります。
 変更後の内容は公開時点から効力を持ちます。利用者は定期的に最新の内容を確認する責任を負います。
 
-## 6. 準拠法
+## 6. 準拠法および管轄
 
 本規約は日本法に準拠します。
+本拡張に関して紛争が生じた場合は、日本の裁判所を専属的合意管轄とします。
 
 最終更新日: 2026年10月2日
 
@@ -143,8 +144,9 @@ The Extension operates within the browser environment. No recovery, compensation
 
 These Terms may be modified without prior notice. Updated Terms take effect upon publication, and users are responsible for reviewing the latest version.
 
-## 6. Governing Law
+## 6. Governing Law and Jurisdiction
 
 These Terms shall be governed by and construed in accordance with the laws of Japan.
+Any disputes relating to the Extension shall be subject to the exclusive jurisdiction of the courts of Japan.
 
 Last updated: October 2, 2026
