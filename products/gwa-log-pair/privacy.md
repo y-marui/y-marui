@@ -2,6 +2,8 @@
 layout: default
 title: Log Pair Privacy Policy
 permalink: /products/gwa-log-pair/privacy/
+product:
+  base: /products/gwa-log-pair/
 ---
 
 Log Pair - Privacy Policy & Terms of Service

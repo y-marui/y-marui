@@ -2,6 +2,8 @@
 layout: default
 title: Log Pair
 permalink: /products/gwa-log-pair/
+product:
+  base: /products/gwa-log-pair/
 ---
 
 # Log Pair

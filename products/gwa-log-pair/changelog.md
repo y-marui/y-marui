@@ -2,6 +2,8 @@
 layout: default
 title: Log Pair Changelog
 permalink: /products/gwa-log-pair/changelog/
+product:
+  base: /products/gwa-log-pair/
 ---
 
 # Log Pair 変更履歴

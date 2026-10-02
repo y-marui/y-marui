@@ -2,6 +2,13 @@
 layout: default
 title: Focus Scope
 permalink: /products/chrome-focus-scope/
+product:
+  base: /products/chrome-focus-scope/
+  stores:
+    - label: Chrome Web Store
+      url: https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg
+    - label: Firefox Add-ons
+      url: https://addons.mozilla.org/ja/firefox/addon/focus-scope/
 ---
 
 # Focus Scope - Smart Website Blocker
