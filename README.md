@@ -65,11 +65,11 @@ University researcher in Japan.
 ## Products
 
 ### Browser Extensions
-- [Zotero Library Checker - Duplicate Reference Detection]({{ "/products/chrome-library-check-for-zotero/" | relative_url }}) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/): Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
-- [Focus Scope - Smart Website Blocker]({{ "/products/chrome-focus-scope/" | relative_url }}) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/focus-scope/): Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
+- <a href="{{ "/products/chrome-library-check-for-zotero/" | relative_url }}" target="_blank" rel="noopener noreferrer">Zotero Library Checker - Duplicate Reference Detection</a> [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/): Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
+- <a href="{{ "/products/chrome-focus-scope/" | relative_url }}" target="_blank" rel="noopener noreferrer">Focus Scope - Smart Website Blocker</a> [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/focus-scope/): Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
 
 ### Google Workspace Add-ons
-- [Log Pair]({{ "/products/gwa-log-pair/" | relative_url }}): Google Workspace Add-on that merges paired calendar events, such as clock-in and clock-out events.
+- <a href="{{ "/products/gwa-log-pair/" | relative_url }}" target="_blank" rel="noopener noreferrer">Log Pair</a>: Google Workspace Add-on that merges paired calendar events, such as clock-in and clock-out events.
 
 ## Posts
 - [Qiita](https://qiita.com/y_marui)
