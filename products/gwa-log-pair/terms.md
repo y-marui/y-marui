@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Log Pair Terms of Service
+title: Log Pair Terms of Use
 permalink: /products/gwa-log-pair/terms/
 product:
   base: /products/gwa-log-pair/
@@ -41,7 +41,7 @@ product:
 
 ## 4. 無保証および責任の制限
 
-本アドオンは、現状有姿（As Is）で提供されます。
+本アドオンは、現状有姿（as-is）で提供されます。
 開発者は、本アドオンの正確性、完全性、継続性、特定目的適合性を一切保証しません。
 
 本アドオンの利用に関連して生じたいかなる損害についても、開発者は責任を負いません。
@@ -52,7 +52,7 @@ product:
 ## 5. 規約の変更
 
 本規約は、必要に応じて変更されることがあります。
-変更後の規約は、掲載された時点で効力を生じます。
+変更後の規約は、本ページに掲載された時点で効力を生じます。
 
 ## 6. 準拠法および管轄
 
@@ -61,16 +61,16 @@ product:
 
 最終更新日: 2026年10月2日
 
-# Terms of Service (English Translation – Reference Only)
+# Terms of Use (English Translation – Reference Only)
 
 ## 1. Acceptance
 
-By installing or using the Add-on, you agree to these Terms.
+These Terms of Use (“Terms”) govern the use of Log Pair (the “Add-on”). By installing or using the Add-on, you agree to these Terms.
 
 ## 2. Free Provision and Support
 
 The Add-on is provided free of charge.
-The developer has no obligation to continue providing the Add-on or support.
+The developer has no obligation to continue providing the Add-on or support. Updates, feature additions, and bug fixes are not guaranteed.
 
 ## 3. Prohibited Actions
 
@@ -82,7 +82,7 @@ The following actions are prohibited:
 
 ## 4. No Warranty and Limitation of Liability
 
-The Add-on is provided "as is" without warranties of any kind.
+The Add-on is provided “as-is” without warranties of any kind.
 
 The developer shall not be liable for any damages arising from the use or inability to use the Add-on, including but not limited to calendar data loss, unintended event modification or deletion, business interruption, or loss of profits.
 
@@ -90,8 +90,7 @@ To the maximum extent permitted by law, the maximum liability of the developer s
 
 ## 5. Changes to Terms
 
-These Terms may be changed as necessary.
-Updated Terms take effect upon publication.
+These Terms may be changed as necessary. Updated Terms take effect when published on this page.
 
 ## 6. Governing Law and Jurisdiction
 

@@ -51,7 +51,7 @@ product:
 
 ## 4. 無保証および責任の制限
 
-本拡張は「現状有姿（as-is）」で提供されます。
+本拡張は、現状有姿（as-is）で提供されます。
 動作の正確性、完全性、安全性、安定性、特定目的への適合性、他サービスや他拡張機能との互換性について、一切保証しません。
 重複判定および論文検出はローカル環境およびZoteroデータに依存しており、100%の正確性を保証するものではありません。
 環境差異、ブラウザ仕様変更、Zotero仕様変更等により、予期しない動作が発生する可能性があります。
@@ -80,8 +80,8 @@ product:
 
 ## 5. 規約の変更
 
-本規約は、必要に応じて予告なく変更されることがあります。
-変更後の内容は公開時点から効力を持ちます。利用者は定期的に最新の内容を確認する責任を負います。
+本規約は、必要に応じて変更されることがあります。
+変更後の規約は、本ページに掲載された時点で効力を生じます。
 
 ## 6. 準拠法および管轄
 
@@ -109,14 +109,14 @@ The Extension is intended as a research assistance tool. Any professional or bus
 
 The following actions are prohibited:
 
-• Reverse engineering or decompilation
-• Unauthorized redistribution
-• Illegal use
-• Abuse or misuse of the Extension
+- Reverse engineering or decompilation
+- Unauthorized redistribution
+- Illegal use
+- Abuse or misuse of the Extension
 
 ## 4. No Warranty and Limitation of Liability
 
-The Extension is provided “as-is.”
+The Extension is provided “as-is” without warranties of any kind.
 No warranties are made regarding accuracy, completeness, reliability, stability, fitness for a particular purpose, or compatibility with other services or extensions.
 Duplicate detection and paper identification depend on the local environment and Zotero data and do not guarantee 100% accuracy.
 Unexpected behavior may occur due to browser updates, Zotero updates, or environmental differences.
@@ -127,12 +127,12 @@ The developer shall not be liable for any damages arising from the use or inabil
 
 This includes, but is not limited to:
 
-• Data loss
-• Research misidentification
-• Business interruption
-• Loss of profits
-• Indirect damages
-• Special damages
+- Data loss
+- Research misidentification
+- Business interruption
+- Loss of profits
+- Indirect damages
+- Special damages
 
 Liability is limited to the maximum extent permitted by applicable law. If liability is legally recognized, the maximum compensation shall be zero (0) JPY.
 
@@ -142,7 +142,7 @@ The Extension operates within the browser environment. No recovery, compensation
 
 ## 5. Changes to Terms
 
-These Terms may be modified without prior notice. Updated Terms take effect upon publication, and users are responsible for reviewing the latest version.
+These Terms may be changed as necessary. Updated Terms take effect when published on this page.
 
 ## 6. Governing Law and Jurisdiction
 

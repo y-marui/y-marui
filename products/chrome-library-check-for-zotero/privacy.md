@@ -61,7 +61,8 @@ Zotero Library Checker - Duplicate Reference Detection（以下「本拡張」�
 
 ## 7. 改定
 
-本ポリシーは、必要に応じて改定されることがあります。改定後の内容は本ページに掲載された時点で効力を生じます。
+本ポリシーは、必要に応じて改定されることがあります。
+改定後の内容は、本ページに掲載された時点で効力を生じます。
 
 最終更新日: 2026年10月2日
 
@@ -79,10 +80,10 @@ The Extension communicates only with the Zotero application running locally on t
 To provide its functionality, the Extension processes the current page URL and paper metadata, local Zotero library query results, and user preferences on the user’s device.
 The Extension does not collect, transmit, or store personal data on the developer’s servers.
 
-• No data is sent to the developer’s servers
-• No third-party servers are contacted
-• No analytics or advertising services are used
-• The Extension does not collect or store users’ browsing history
+- No data is sent to the developer’s servers
+- No third-party servers are contacted
+- No analytics or advertising services are used
+- The Extension does not collect or store users’ browsing history
 
 ## 3. Purpose of Use
 

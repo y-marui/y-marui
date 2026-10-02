@@ -23,7 +23,6 @@ product:
 ## 1. 提供者およびサービス概要
 
 Log Pair（以下「本アドオン」）は、個人開発者により、無償で提供される Google Workspace アドオンです。
-本アドオンの提供は事業として行われるものではありません。
 
 本アドオンは、Google カレンダー上の打刻イベント（入退勤等）を自動でペアリングし、統合するツールです。
 
@@ -64,7 +63,7 @@ Google API Services から受領する情報の使用は、[Google API Services 
 ## 7. 改定
 
 本ポリシーは、必要に応じて改定されることがあります。
-改定後の内容は、掲載された時点で効力を生じます。
+改定後の内容は、本ページに掲載された時点で効力を生じます。
 
 最終更新日: 2026年10月2日
 
@@ -73,7 +72,6 @@ Google API Services から受領する情報の使用は、[Google API Services 
 ## 1. Provider and Service Overview
 
 Log Pair (the "Add-on") is developed and provided by an individual developer, free of charge.
-It is not provided as a commercial business.
 The Add-on automatically pairs and merges time-tracking events (such as clock-in/clock-out) in Google Calendar.
 
 ## 2. Data Processed
@@ -112,7 +110,6 @@ The use of information received from Google API Services adheres to the [Google 
 
 ## 7. Changes to Policy
 
-This policy may be revised as necessary.
-Revised content takes effect upon publication.
+This policy may be revised as necessary. Revised content takes effect when published on this page.
 
 Last updated: October 2, 2026

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Focus Scope Terms of Service
+title: Focus Scope Terms of Use
 permalink: /products/chrome-focus-scope/terms/
 product:
   base: /products/chrome-focus-scope/
@@ -46,7 +46,7 @@ product:
 
 ## 4. 無保証および責任の制限
 
-本拡張機能は、現状有姿（As Is）で提供されます。
+本拡張機能は、現状有姿（as-is）で提供されます。
 開発者は、本拡張機能の正確性、完全性、継続性、特定目的適合性を一切保証しません。
 
 本拡張機能の利用に関連して生じたいかなる損害についても、開発者は責任を負いません。
@@ -66,16 +66,16 @@ product:
 
 最終更新日: 2026年10月2日
 
-# Terms of Service (English Translation – Reference Only)
+# Terms of Use (English Translation – Reference Only)
 
 ## 1. Acceptance
 
-By installing or using the Extension, you agree to these Terms.
+These Terms of Use (“Terms”) govern the use of Focus Scope - Smart Website Blocker (the “Extension”). By installing or using the Extension, you agree to these Terms.
 
 ## 2. Free Provision and Support
 
 The Extension is provided free of charge.
-The developer has no obligation to continue providing the Extension or support.
+The developer has no obligation to continue providing the Extension or support. Updates, feature additions, and bug fixes are not guaranteed.
 
 ## 3. Prohibited Actions
 
@@ -87,7 +87,7 @@ The following actions are prohibited:
 
 ## 4. No Warranty and Limitation of Liability
 
-The Extension is provided “as is” without warranties of any kind.
+The Extension is provided “as-is” without warranties of any kind.
 
 The developer shall not be liable for any damages arising from the use or inability to use the Extension, including but not limited to data loss, business interruption, misconfiguration, unintended blocking, or failure to block.
 

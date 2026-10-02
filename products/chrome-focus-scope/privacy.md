@@ -28,7 +28,6 @@ product:
 ## 1. 提供者およびサービス概要
 
 Focus Scope - Smart Website Blocker（以下「本拡張機能」）は、個人開発者により、無償で提供されるChrome拡張機能です。
-本拡張機能の提供は事業として行われるものではありません。
 
 本拡張機能は、ユーザーが指定したウェブサイトへのアクセスを制限することにより、集中力の維持を支援するツールです。
 
@@ -85,7 +84,6 @@ chrome.storage.sync に保存される設定情報は、同一の Google アカ�
 ## 1. Provider and Service Overview
 
 Focus Scope - Smart Website Blocker (the “Extension”) is developed and provided by an individual developer, free of charge.
-It is not provided as a commercial business.
 The Extension helps users maintain focus by restricting access to user-defined websites.
 
 ## 2. Data Processed
