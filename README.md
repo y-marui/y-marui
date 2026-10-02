@@ -35,10 +35,6 @@ University researcher in Japan.
   - [y\-marui / python\-header\-maker](https://github.com/y-marui/python-header-maker): Python GUI for making header image for note.com
   - [y\-marui / python\-docx\-redline](https://github.com/y-marui/python-docx-redline): Minimal, safe Word (.docx) tracked-change (redline) editing CLI — comparison-free proofreading edits as real Word revisions
 
-### Browser Extensions
-- [Zotero Library Checker - Duplicate Reference Detection ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/): Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
-- [Focus Scope - Smart Website Blocker ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/focus-scope/): Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
-
 ### Alfred Workflows
 - [y\-marui / alfred\-quick\-txt\-save](https://github.com/y-marui/alfred-quick-txt-save): Save selected text or clipboard content as a file instantly using Alfred
 - [y\-marui / alfred\-note\-table\-converter](https://github.com/y-marui/alfred-note-table-converter): Convert tables between Markdown and LaTeX for note
@@ -65,6 +61,12 @@ University researcher in Japan.
 
 ### Other Code Scraps
 - [gist](https://gist.github.com/y-marui)
+
+## Products
+
+### Browser Extensions
+- [Zotero Library Checker - Duplicate Reference Detection ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/): Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
+- [Focus Scope - Smart Website Blocker ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/focus-scope/): Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
 
 ## Posts
 - [Qiita](https://qiita.com/y_marui)
