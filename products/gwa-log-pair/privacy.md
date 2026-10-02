@@ -20,16 +20,14 @@ product:
 
 # プライバシーポリシー（日本語正式版）
 
-## 1. 提供者および提供形態
+## 1. 提供者およびサービス概要
 
 Log Pair（以下「本アドオン」）は、個人開発者により、無償で提供される Google Workspace アドオンです。
 本アドオンの提供は事業として行われるものではありません。
 
-## 2. 本アドオンの概要
-
 本アドオンは、Google カレンダー上の打刻イベント（入退勤等）を自動でペアリングし、統合するツールです。
 
-## 3. 取得・処理する情報
+## 2. 取得・処理する情報
 
 本アドオンは、以下の情報のみを処理します。
 
@@ -42,54 +40,43 @@ Log Pair（以下「本アドオン」）は、個人開発者により、無償
 - カレンダーイベントの内容を外部サーバーへ送信すること
 - 打刻目的以外のカレンダーイベントへのアクセス
 
-## 4. 情報の保存方法
+## 3. 利用目的
+
+処理する情報は、Google カレンダー上の打刻イベントを検索、ペアリングおよび統合する機能のためだけに使用します。
+
+## 4. 保存方法
 
 設定情報は Google Apps Script の PropertiesService（Google のサーバー上）に保存されます。
 カレンダーデータは、統合処理の実行時のみアクセスされ、永続的に保存されません。
 本アドオンは、Google のインフラ外にデータを送信しません。
 
-## 5. 第三者提供
+## 5. 外部送信および第三者提供
 
 本アドオンは、ユーザー情報を第三者に販売、共有、提供することはありません。
 
-## 6. 権限の利用目的
+## 6. 権限およびAPIの利用
 
 本アドオンが要求する Google カレンダーへのアクセス権限は、打刻イベントのペアリングおよび統合処理のためのみに使用します。
 取得した情報は、上記目的以外には使用されません。
 
-## 7. 免責事項
+Google API Services から受領する情報の使用は、[Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy)（Limited Use 要件を含む）に従います。
 
-本アドオンは、現状有姿（As Is）で提供されます。
-
-開発者は、本アドオンの正確性、完全性、継続性、特定目的適合性を一切保証しません。
-
-本アドオンの利用または利用不能により生じた一切の損害について、開発者は責任を負いません。
-これには、カレンダーデータの消失、イベントの意図しない変更・削除、業務上の損失、逸失利益を含みますが、これらに限定されません。
-
-開発者の損害賠償責任が法令上否定できない場合であっても、その賠償額の上限は0円とします。
-
-## 8. 改定
+## 7. 改定
 
 本ポリシーは、必要に応じて改定されることがあります。
 改定後の内容は、掲載された時点で効力を生じます。
 
-## 9. 準拠法および管轄
-
-本ポリシーは日本法に準拠します。
-本アドオンに関して紛争が生じた場合は、日本の裁判所を専属的合意管轄とします。
+最終更新日: 2026年10月2日
 
 # Privacy Policy (English Translation – Reference Only)
 
-## 1. Provider and Nature of Service
+## 1. Provider and Service Overview
 
 Log Pair (the "Add-on") is developed and provided by an individual developer, free of charge.
 It is not provided as a commercial business.
-
-## 2. Overview
-
 The Add-on automatically pairs and merges time-tracking events (such as clock-in/clock-out) in Google Calendar.
 
-## 3. Information Processed
+## 2. Data Processed
 
 The Add-on processes only:
 
@@ -102,35 +89,30 @@ The Add-on does NOT collect:
 - Calendar event data transmitted to external servers
 - Calendar events unrelated to time-tracking purposes
 
-## 4. Data Storage
+## 3. Purpose of Use
+
+The processed information is used only to search, pair, and merge time-tracking events in Google Calendar.
+
+## 4. Storage
 
 Configuration settings are stored in Google Apps Script's PropertiesService (on Google's servers).
 Calendar data is accessed only during the merge operation and is not stored persistently.
 No data is transmitted outside of Google's infrastructure.
 
-## 5. Third-Party Sharing
+## 5. External Transmission and Third-Party Sharing
 
 No user data is sold, shared, or provided to third parties.
 
-## 6. Use of Permissions
+## 6. Permissions and APIs
 
 The Google Calendar access permissions requested by this Add-on are used solely for the purpose of pairing and merging time-tracking events.
 Collected information is not used for any other purpose.
 
-## 7. Disclaimer
+The use of information received from Google API Services adheres to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
 
-The Add-on is provided "as is" without warranties of any kind.
-
-The developer shall not be liable for any damages arising from the use or inability to use the Add-on, including but not limited to calendar data loss, unintended event modification or deletion, business interruption, or loss of profits.
-
-To the maximum extent permitted by law, the maximum liability of the developer shall be zero (0) yen.
-
-## 8. Changes to Policy
+## 7. Changes to Policy
 
 This policy may be revised as necessary.
 Revised content takes effect upon publication.
 
-## 9. Governing Law and Jurisdiction
-
-This policy shall be governed by the laws of Japan.
-Any disputes shall be subject to the exclusive jurisdiction of the courts of Japan.
+Last updated: October 2, 2026

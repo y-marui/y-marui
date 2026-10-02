@@ -25,10 +25,11 @@ product:
 本利用規約（以下「本規約」）は、本アドオンの利用条件を定めるものです。
 本アドオンをインストールまたは利用した時点で、本規約に同意したものとみなします。
 
-## 2. 無償提供
+## 2. 無償提供およびサポート
 
 本アドオンは無償で提供されます。
 開発者は、提供の継続義務を負いません。
+更新、機能追加、不具合修正およびサポート対応は保証されません。
 
 ## 3. 禁止事項
 
@@ -38,9 +39,13 @@ product:
 - 適用法で認められる範囲を超えるリバースエンジニアリング
 - 無断での改変、再配布
 
-## 4. 責任の制限
+## 4. 無保証および責任の制限
+
+本アドオンは、現状有姿（As Is）で提供されます。
+開発者は、本アドオンの正確性、完全性、継続性、特定目的適合性を一切保証しません。
 
 本アドオンの利用に関連して生じたいかなる損害についても、開発者は責任を負いません。
+これには、カレンダーデータの消失、イベントの意図しない変更・削除、業務上の損失、逸失利益を含みますが、これらに限定されません。
 
 開発者の損害賠償責任が法令上否定できない場合であっても、その賠償額の上限は0円とします。
 
@@ -54,16 +59,18 @@ product:
 本規約は日本法に準拠します。
 本アドオンに関して紛争が生じた場合は、日本の裁判所を専属的合意管轄とします。
 
+最終更新日: 2026年10月2日
+
 # Terms of Service (English Translation – Reference Only)
 
 ## 1. Acceptance
 
 By installing or using the Add-on, you agree to these Terms.
 
-## 2. Free Provision
+## 2. Free Provision and Support
 
 The Add-on is provided free of charge.
-The developer has no obligation to continue providing the Add-on.
+The developer has no obligation to continue providing the Add-on or support.
 
 ## 3. Prohibited Actions
 
@@ -73,9 +80,11 @@ The following actions are prohibited:
 - Reverse engineering beyond what is permitted by applicable law
 - Unauthorized modification or redistribution
 
-## 4. Limitation of Liability
+## 4. No Warranty and Limitation of Liability
 
-The developer shall not be liable for any damages arising from the use of the Add-on.
+The Add-on is provided "as is" without warranties of any kind.
+
+The developer shall not be liable for any damages arising from the use or inability to use the Add-on, including but not limited to calendar data loss, unintended event modification or deletion, business interruption, or loss of profits.
 
 To the maximum extent permitted by law, the maximum liability of the developer shall be zero (0) yen.
 
@@ -88,3 +97,5 @@ Updated Terms take effect upon publication.
 
 These Terms shall be governed by the laws of Japan.
 Any disputes shall be subject to the exclusive jurisdiction of the courts of Japan.
+
+Last updated: October 2, 2026
