@@ -15,7 +15,7 @@ product:
 
 ## 2026-10-02
 
-- プライバシーポリシーと利用規約の公開ページを作成しました。
+- プライバシーポリシーと利用規約を、それぞれ独立した公開ページとして整備しました。
 
 ## English
 
@@ -23,4 +23,4 @@ product:
 
 ## 2026-10-02
 
-- Created the public Privacy Policy and Terms of Service page.
+- Published separate Privacy Policy and Terms of Service pages.

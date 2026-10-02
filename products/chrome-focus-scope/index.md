@@ -17,7 +17,8 @@ SNSや時間を奪うサイトをブロックします。スプリントや曜�
 
 ## 関連ページ
 
-- [プライバシーポリシーと利用規約](privacy/)
+- [プライバシーポリシー](privacy/)
+- [利用規約](terms/)
 - [変更履歴](changelog/)
 
 ## English
@@ -26,5 +27,6 @@ Block SNS and time-wasting sites. A site blocker to keep your focus going with s
 
 ## Pages
 
-- [Privacy Policy and Terms of Service](privacy/)
+- [Privacy Policy](privacy/)
+- [Terms of Service](terms/)
 - [Changelog](changelog/)

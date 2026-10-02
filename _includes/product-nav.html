@@ -6,6 +6,7 @@
     {% endif %}
     <a href="{{ page.product.base | append: 'changelog/' | relative_url }}">変更履歴</a>
     <a href="{{ page.product.base | append: 'privacy/' | relative_url }}">プライバシーポリシー</a>
+    <a href="{{ page.product.base | append: 'terms/' | relative_url }}">利用規約</a>
     {% for store in page.product.stores %}
     <a href="{{ store.url }}" rel="noopener noreferrer">{{ store.label }}</a>
     {% endfor %}

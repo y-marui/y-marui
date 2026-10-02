@@ -12,7 +12,8 @@ Google カレンダーの打刻イベント（入退勤など）をペアで統�
 
 ## 関連ページ
 
-- [プライバシーポリシーと利用規約](privacy/)
+- [プライバシーポリシー](privacy/)
+- [利用規約](terms/)
 - [変更履歴](changelog/)
 
 ## English
@@ -21,5 +22,6 @@ Google Workspace Add-on that merges paired calendar events, such as clock-in and
 
 ## Pages
 
-- [Privacy Policy and Terms of Service](privacy/)
+- [Privacy Policy](privacy/)
+- [Terms of Service](terms/)
 - [Changelog](changelog/)

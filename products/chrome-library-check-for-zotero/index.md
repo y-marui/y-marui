@@ -17,7 +17,8 @@ product:
 
 ## 関連ページ
 
-- [プライバシーポリシーと利用規約](privacy/)
+- [プライバシーポリシー](privacy/)
+- [利用規約](terms/)
 - [変更履歴](changelog/)
 
 ## English
@@ -26,5 +27,6 @@ Check instantly whether the paper you're viewing is already saved in Zotero. A s
 
 ## Pages
 
-- [Privacy Policy and Terms of Service](privacy/)
+- [Privacy Policy](privacy/)
+- [Terms of Use](terms/)
 - [Changelog](changelog/)
