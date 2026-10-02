@@ -81,6 +81,23 @@ header #toc ul {
     text-decoration: underline;
 }
 
+/* Minimal's body padding would otherwise inset the product navigation. */
+.product-page {
+    padding: 0;
+}
+
+/* Keep the original content gutter when the body padding is removed. */
+.product-page .wrapper {
+    box-sizing: border-box;
+    padding: 50px;
+}
+
+@media print, screen and (max-width: 480px) {
+    .product-page .wrapper {
+        padding: 15px;
+    }
+}
+
 @media print {
     .product-nav {
         display: none;
