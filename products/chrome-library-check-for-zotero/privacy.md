@@ -4,32 +4,208 @@ title: Library Check for Zotero Privacy Policy
 permalink: /products/chrome-library-check-for-zotero/privacy/
 ---
 
-# Library Check for Zotero – Prevent Duplicates プライバシーポリシーと利用規約
+# Zotero Library Checker - Duplicate Reference Detection
 
-本ページは日本語正式版の後に英語参考訳を掲載します。解釈に相違がある場合、日本語版を優先します。
+本ページでは、まず日本語による正式版を掲載し、その後に英語翻訳版を掲載しています。
+本規約の正式かつ法的効力を有する版は日本語版とし、英語翻訳は参考用です。
+解釈に相違がある場合は、日本語版を優先します。
 
-## 日本語
+This page first presents the official Japanese version, followed by an English translation.
+The Japanese version is the official and legally binding version.
+The English translation is provided for reference only. In the event of any inconsistency, the Japanese version shall prevail.
 
-### プライバシーポリシーおよび利用規約
+# 日本語
 
-本プライバシーポリシーおよび利用規約（以下「本規約」）は、ブラウザ拡張機能「Library Check for Zotero – Prevent Duplicates」（以下「本拡張」）の利用条件を定めるものです。本拡張をインストールまたは利用した時点で、本規約に同意したものとみなします。
+## プライバシーポリシーおよび利用規約
 
-本拡張は、ユーザーが閲覧している論文ページの情報を基に、当該論文がローカル環境のZoteroライブラリに登録されているかを確認するための補助ツールです。ユーザーのコンピュータ上で動作するZoteroアプリケーション（`localhost:23119`）とのみ通信します。
+本プライバシーポリシーおよび利用規約（以下「本規約」）は、Chrome拡張機能「Zotero Library Checker - Duplicate Reference Detection」（以下「本拡張」）の利用条件を定めるものです。
+本拡張をインストールまたは利用した時点で、本規約に同意したものとみなします。
 
-本拡張は個人情報を収集・外部送信・保存しません。開発者または第三者のサーバーとの通信、外部解析ツールや広告サービスの利用、閲覧履歴の収集・保存は行いません。設定情報はChromeのstorage APIを用いてユーザーの端末内にのみ保存され、論文情報や閲覧情報はインターネット上の外部サーバーに送信されません。
+## 1. 本拡張の概要
 
-本拡張は現状有姿で提供され、正確性、完全性、安全性、安定性、特定目的への適合性、他サービスや他拡張機能との互換性を保証しません。重複判定と論文検出はローカル環境およびZoteroデータに依存し、100%の正確性を保証するものではありません。
+本拡張は、ユーザーが閲覧している論文ページの情報を基に、当該論文がローカル環境のZoteroライブラリに登録されているかを確認するための補助ツールです。
 
-利用または利用不能による損害について、法令上許容される最大限の範囲で開発者は責任を負わず、賠償額の上限は0円とします。重要な研究データやライブラリ情報は、利用者自身でバックアップしてください。将来的な更新、機能追加、不具合修正、サポート対応は保証されません。業務用途での利用は自己責任で行ってください。
+本拡張は、ユーザーのコンピュータ上で動作するZoteroアプリケーション（localhost:23119）とのみ通信します。
 
-リバースエンジニアリング、逆コンパイル、無断再配布、法令違反となる目的での利用、本拡張の不正利用を禁じます。本規約は必要に応じて予告なく変更され、本ページへの公開時点から効力を持ちます。本規約は日本法に準拠します。
+## 2. 取得・送信データについて
 
-## English Translation (Reference Only)
+本拡張は、個人情報を収集・外部送信・保存しません。
 
-This Privacy Policy and Terms of Use govern the browser extension "Library Check for Zotero – Prevent Duplicates." By installing or using the Extension, you agree to these Terms.
+・ユーザーデータを開発者のサーバーへ送信することはありません
+・第三者サーバーとの通信は行いません
+・外部解析ツールや広告サービスは使用していません
+・ユーザーの閲覧履歴を収集・保存しません
 
-The Extension checks whether a paper currently viewed in the browser is already registered in the user's local Zotero library. It communicates only with the Zotero application running locally on the user's computer at `localhost:23119`.
+設定情報等は、Chromeのstorage APIを用いてユーザーの端末内にのみ保存されます。
 
-The Extension does not collect, transmit, or store personal data on external servers. No data is sent to developer or third-party servers. It uses no analytics or advertising services and does not collect or store browsing history. Preferences are stored locally using Chrome's storage API; paper metadata and browsing information are not sent to external internet servers.
+本拡張は、ZoteroローカルAPI（localhost）とのみ通信します。
+インターネット上の外部サーバーに論文情報や閲覧情報を送信することはありません。
 
-The Extension is provided "as is" without warranties. To the maximum extent permitted by law, the developer is not liable for damages and maximum compensation is zero JPY. Users are responsible for backing up important research data and Zotero libraries. Future updates, support, and continued availability are not guaranteed. Reverse engineering, decompilation, unauthorized redistribution, illegal use, and misuse are prohibited. These Terms may change on publication to this page and are governed by Japanese law.
+## 3. 無保証（As-Is）
+
+本拡張は「現状有姿（as-is）」で提供されます。
+
+動作の正確性、完全性、安全性、安定性、特定目的への適合性、他サービスや他拡張機能との互換性について、一切保証しません。
+
+重複判定および論文検出はローカル環境およびZoteroデータに依存しており、100%の正確性を保証するものではありません。
+
+環境差異、ブラウザ仕様変更、Zotero仕様変更等により、予期しない動作が発生する可能性があります。
+
+## 4. 責任の制限
+
+本拡張の利用または利用不能により生じたいかなる損害についても、開発者は責任を負いません。
+
+これには以下を含みますが、これらに限定されません。
+
+・データの消失
+・研究データの誤認
+・業務の停止
+・逸失利益
+・間接損害
+・特別損害
+
+本拡張は個人開発者により、事業としてではなく無償で提供されています。
+そのため、開発者は法令上許容される最大限の範囲で責任を負いません。
+
+万が一、法的に責任が認められる場合であっても、賠償額は0円を上限とします。
+
+## 5. データの管理責任
+
+本拡張はブラウザ環境上で動作します。
+
+保存データの消失・破損・誤動作が発生した場合でも、復旧・補償・技術的サポートは保証されません。
+
+重要な研究データやライブラリ情報は、必ずご自身でバックアップを行ってください。
+
+## 6. 提供およびサポート
+
+本拡張は個人開発者により無償で提供されています。
+
+将来的な更新、機能追加、不具合修正、サポート対応は保証されません。
+
+開発の継続性は保証されません。
+
+## 7. 業務利用について
+
+本拡張は研究支援を目的とした補助ツールです。
+
+業務用途での利用は自己責任で行ってください。
+業務利用に関して、開発者は一切の責任を負いません。
+
+## 8. 禁止事項
+
+以下の行為を禁止します。
+
+・リバースエンジニアリング、逆コンパイル
+・無断再配布
+・法令違反となる目的での利用
+・本拡張の不正利用
+
+## 9. 規約の変更
+
+本規約は、必要に応じて予告なく変更されることがあります。
+
+変更後の内容は公開時点から効力を持ちます。
+利用者は定期的に最新の内容を確認する責任を負います。
+
+## 10. 準拠法
+
+本規約は日本法に準拠します。
+
+# English Translation (Reference Only)
+
+## Privacy Policy and Terms of Use
+
+This Privacy Policy and Terms of Use (“Terms”) govern the use of the Chrome extension “Zotero Library Checker - Duplicate Reference Detection” (“the Extension”).
+
+By installing or using the Extension, you agree to these Terms.
+
+## 1. Overview
+
+The Extension checks whether a paper currently viewed in the browser is already registered in the user’s local Zotero library.
+
+The Extension communicates only with the Zotero application running locally on the user’s computer (localhost:23119).
+
+## 2. Data Collection and Transmission
+
+The Extension does not collect, transmit, or store personal data on external servers.
+
+• No data is sent to the developer’s servers
+• No third-party servers are contacted
+• No analytics or advertising services are used
+• The Extension does not collect or store users’ browsing history
+
+User preferences are stored locally using Chrome’s storage API.
+
+Paper metadata and browsing information are not transmitted to any external internet server.
+
+## 3. No Warranty (As-Is)
+
+The Extension is provided “as-is.”
+
+No warranties are made regarding accuracy, completeness, reliability, stability, fitness for a particular purpose, or compatibility with other services or extensions.
+
+Duplicate detection and paper identification depend on the local environment and Zotero data and do not guarantee 100% accuracy.
+
+Unexpected behavior may occur due to browser updates, Zotero updates, or environmental differences.
+
+## 4. Limitation of Liability
+
+The developer shall not be liable for any damages arising from the use or inability to use the Extension.
+
+This includes, but is not limited to:
+
+• Data loss
+• Research misidentification
+• Business interruption
+• Loss of profits
+• Indirect damages
+• Special damages
+
+The Extension is provided free of charge by an individual developer and not as a commercial business service.
+Liability is limited to the maximum extent permitted by applicable law.
+
+If liability is legally recognized, the maximum compensation shall be zero (0) JPY.
+
+## 5. Data Responsibility
+
+The Extension operates within the browser environment.
+
+No recovery, compensation, or technical support is guaranteed in the event of data loss or malfunction.
+
+Users are responsible for backing up important research data and Zotero libraries.
+
+## 6. Provision and Support
+
+The Extension is provided free of charge by an individual developer.
+
+Future updates, feature improvements, bug fixes, or support are not guaranteed.
+
+Continuation of development is not guaranteed.
+
+## 7. Professional Use
+
+The Extension is intended as a research assistance tool.
+
+Any professional or business use is at the user’s own risk.
+The developer assumes no responsibility for such use.
+
+## 8. Prohibited Actions
+
+The following actions are prohibited:
+
+• Reverse engineering or decompilation
+• Unauthorized redistribution
+• Illegal use
+• Abuse or misuse of the Extension
+
+## 9. Changes to Terms
+
+These Terms may be modified without prior notice.
+
+Updated Terms take effect upon publication.
+Users are responsible for reviewing the latest version.
+
+## 10. Governing Law
+
+These Terms shall be governed by and construed in accordance with the laws of Japan.
