@@ -80,6 +80,25 @@ header #toc ul {
     }
 }
 
+/* Wide pages drop the theme's fixed 500px column so tile columns follow the screen width. */
+@media screen and (min-width: 961px) {
+    .wide .wrapper {
+        width: min(1100px, 100%);
+    }
+
+    .wide header,
+    .wide footer {
+        float: none;
+        position: static;
+        width: auto;
+    }
+
+    .wide section {
+        float: none;
+        width: auto;
+    }
+}
+
 .link-tiles {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));

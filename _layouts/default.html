@@ -13,7 +13,7 @@
     {% include head-custom.html %}
   </head>
 
-  <body class="has-nav">
+  <body class="has-nav{% if page.wide %} wide{% endif %}">
     {% if page.product %}
     {% include product-nav.html %}
     {% else %}

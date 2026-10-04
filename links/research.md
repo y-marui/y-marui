@@ -1,5 +1,6 @@
 ---
 layout: default
+wide: true
 title: Research Links
 permalink: /links/research/
 ---
