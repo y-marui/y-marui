@@ -105,3 +105,45 @@ header #toc ul {
         display: none;
     }
 }
+
+.link-tiles {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 12px;
+    margin: 0 0 24px;
+}
+
+.link-tile {
+    display: grid;
+    grid-template-rows: minmax(0, 1fr) minmax(0, 1fr);
+    gap: 4px;
+    align-items: center;
+    aspect-ratio: 1 / 1;
+    box-sizing: border-box;
+    padding: 6px;
+    border: 1px solid #e5e5e5;
+    border-radius: 8px;
+    background: #fff;
+    color: #267cb9;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+.link-tile:hover,
+.link-tile:focus-visible {
+    background: #f5f5f5;
+    text-decoration: none;
+}
+
+.link-tile__title {
+    font-size: 13px;
+    font-weight: bold;
+    overflow-wrap: break-word;
+}
+
+.link-tile__note {
+    color: #727272;
+    font-size: 11px;
+    overflow-wrap: break-word;
+}

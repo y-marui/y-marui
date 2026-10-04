@@ -1,0 +1,52 @@
+# Link tiles shown on /links/. Each group renders as a grid of square tiles.
+# Fields: title (required), url (required), note (optional short caption)
+- group: Infographics
+  items:
+    - title: インフォグラフィック
+      url: https://info-graphic.me/
+      note: 情報を視覚化する
+    - title: ZUNNY
+      url: https://zunny.jp/
+      note: 図にするとわかるニュース
+    - title: infographic.jp
+      url: http://infographic.jp/
+      note: エコンテの作品集
+
+- group: Learning
+  items:
+    - title: CS50 Japanese
+      url: https://cs50.jp/
+      note: CS入門
+    - title: Tama Design University
+      url: https://tub.tamabi.ac.jp/tdu/
+      note: デザインのバーチャル大学
+    - title: AtCoder
+      url: https://atcoder.jp/home
+      note: プログラミングコンテスト
+
+- group: Art
+  items:
+    - title: Google Arts & Culture
+      url: https://artsandculture.google.com/nearby?hl=ja
+      note: 現在地周辺の文化施設
+
+- group: Music
+  items:
+    - title: earsense
+      url: https://www.earsense.org/
+      note: 室内楽データベース
+
+- group: Living
+  items:
+    - title: スマイティ
+      url: https://sumaity.com/
+      note: 不動産住宅情報
+
+- group: Investing
+  items:
+    - title: FUNDINNO
+      url: https://fundinno.com/
+      note: 株式投資型クラウドファンディング
+    - title: イークラウド
+      url: https://lp.ecrowd.co.jp/
+      note: 株式投資型クラウドファンディング
