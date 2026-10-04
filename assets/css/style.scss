@@ -80,22 +80,14 @@ header #toc ul {
     }
 }
 
-/* Wide pages drop the theme's fixed 500px column so tile columns follow the screen width. */
+/* Wide pages keep the theme's sidebar but widen the content column (theme: 860px wrapper, 270px sidebar, 500px content). */
 @media screen and (min-width: 961px) {
     .wide .wrapper {
-        width: min(1100px, 100%);
-    }
-
-    .wide header,
-    .wide footer {
-        float: none;
-        position: static;
-        width: auto;
+        width: min(1200px, 100%);
     }
 
     .wide section {
-        float: none;
-        width: auto;
+        width: calc(100% - 360px);
     }
 }
 
