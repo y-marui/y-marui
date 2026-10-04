@@ -1,0 +1,12 @@
+# Site-wide menu bar (top page, Products index, Links, ...).
+# Fields: label, url (site-relative or absolute), match (optional path prefix for the active state)
+- label: Top
+  url: /
+- label: Products
+  url: /products/
+  match: /products/
+- label: Links
+  url: /links/
+  match: /links/
+- label: Blog
+  url: https://y-marui.hatenadiary.com/

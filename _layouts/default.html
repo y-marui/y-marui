@@ -13,11 +13,11 @@
     {% include head-custom.html %}
   </head>
 
-  <body{% if page.product %} class="product-page"{% endif %}>
+  <body class="has-nav">
     {% if page.product %}
     {% include product-nav.html %}
     {% else %}
-    {% include navi.html %}
+    {% include site-nav.html %}
     {% endif %}
     <div class="wrapper">
       <header>
