@@ -30,6 +30,18 @@
       url: https://artsandculture.google.com/nearby?hl=ja
       note: 現在地周辺の文化施設
 
+- group: Art Workshops
+  items:
+    - title: artwine.tokyo
+      url: https://artwine.tokyo/collections/all-the-workshops
+      note: 絵画とワインのワークショップ
+    - title: ×art
+      url: https://kakeruart.com/collections/all-session
+      note: 東京の美術教室
+    - title: Artbar Tokyo
+      url: https://artbar.co.jp/events-schedule/
+      note: ペインティングクラス
+
 - group: Music
   items:
     - title: earsense
@@ -68,5 +80,8 @@
     - title: 映画ウォッチ
       url: https://eiga-watch.com/
       note: 映画のあらすじ・感想
+    - title: TVer
+      url: https://tver.jp/mypage/fav
+      note: お気に入り番組
     - title: ewocau
       url: https://kallcart.com/
