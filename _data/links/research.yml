@@ -15,6 +15,18 @@
       url: https://itsatcuny.org/
       note: CUNY
 
+- group: Tools
+  items:
+    - title: Overleaf
+      url: https://ja.overleaf.com/project
+      note: LaTeX エディタ
+    - title: Wolfram|Alpha
+      url: https://www.wolframalpha.com/
+      note: 計算・知識エンジン
+    - title: AtomWork
+      url: https://crystdb.nims.go.jp/crystdb/search-materials
+      note: 無機材料データベース
+
 - group: Journal Club & Blog
   items:
     - title: Journal Club for Condensed Matter Physics
