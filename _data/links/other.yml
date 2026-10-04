@@ -29,6 +29,9 @@
     - title: Google Arts & Culture
       url: https://artsandculture.google.com/nearby?hl=ja
       note: 現在地周辺の文化施設
+    - title: Art Scenes
+      url: https://art-scenes.net/ja/
+      note: アートECモール
 
 - group: Art Workshops
   items:
@@ -47,6 +50,9 @@
     - title: earsense
       url: https://www.earsense.org/
       note: 室内楽データベース
+    - title: Exportify
+      url: https://watsonbox.github.io/exportify/
+      note: Spotify プレイリストの書き出し
 
 - group: Living
   items:
@@ -80,8 +86,20 @@
     - title: 映画ウォッチ
       url: https://eiga-watch.com/
       note: 映画のあらすじ・感想
+    - title: NHK WORLD-JAPAN Live
+      url: https://www3.nhk.or.jp/nhkworld/en/live_tv/
+      note: ライブ配信
     - title: TVer
       url: https://tver.jp/mypage/fav
       note: お気に入り番組
     - title: ewocau
       url: https://kallcart.com/
+
+- group: Shopping
+  items:
+    - title: DULTON
+      url: https://www.dulton.jp/onlineshop/
+      note: 雑貨
+    - title: 園芸ネット
+      url: https://www.engei.net
+      note: 観葉植物と園芸用品
