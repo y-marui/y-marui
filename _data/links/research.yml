@@ -1,0 +1,40 @@
+# Link tiles shown on /links/research/. Each group renders as a grid of square tiles.
+# Fields: title (required), url (required), note (optional short caption)
+- group: Seminars
+  items:
+    - title: SPICE
+      url: https://www.spice.uni-mainz.de/
+      note: マインツ大学
+    - title: Online Spintronics Seminar Series
+      url: https://www.spintalks.org/
+      note: スピントロニクスのセミナー
+    - title: Online CMT seminars
+      url: https://shinaoka.github.io/online_CMT_seminars/
+      note: オンラインセミナー
+    - title: Initiative for the Theoretical Sciences
+      url: https://itsatcuny.org/
+      note: CUNY
+
+- group: Journal Club & Blog
+  items:
+    - title: Journal Club for Condensed Matter Physics
+      url: https://www.condmatjclub.org/
+      note: 月刊の論文紹介
+    - title: ぶひんブログ
+      url: https://buhin-blog.blogspot.com/
+      note: ブログ
+
+- group: Conferences
+  items:
+    - title: IEEE Magnetics Society
+      url: https://ieeemagnetics.org/conferences/conferences-overview/calendar
+      note: 会議カレンダー
+    - title: 応用物理学会
+      url: https://www.jsap.or.jp/jsap-meeting/future
+      note: 春秋講演会の日程
+    - title: 日本物理学会
+      url: https://www.jps.or.jp/activities/meetings/future.php
+      note: 年次・秋季大会の日程
+    - title: 日本磁気学会
+      url: https://www.magnetics.jp/event/nextannualconference/
+      note: 学術講演会の日程

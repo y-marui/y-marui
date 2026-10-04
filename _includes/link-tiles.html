@@ -1,14 +1,4 @@
----
-layout: default
-title: Links
-permalink: /links/
----
-
-# Links
-
-好きなサイトへのリンク集です。
-
-{% for group in site.data.links %}
+{% for group in include.groups %}
 ## {{ group.group }}
 
 <div class="link-tiles">

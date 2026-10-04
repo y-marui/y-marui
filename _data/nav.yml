@@ -5,8 +5,11 @@
 - label: Products
   url: /products/
   match: /products/
-- label: Links
-  url: /links/
-  match: /links/
+- label: Research Links
+  url: /links/research/
+  match: /links/research/
+- label: Other Links
+  url: /links/other/
+  match: /links/other/
 - label: Blog
   url: https://y-marui.hatenadiary.com/

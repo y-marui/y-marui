@@ -1,4 +1,4 @@
-# Link tiles shown on /links/. Each group renders as a grid of square tiles.
+# Link tiles shown on /links/other/. Each group renders as a grid of square tiles.
 # Fields: title (required), url (required), note (optional short caption)
 - group: Infographics
   items:
