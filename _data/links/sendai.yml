@@ -14,9 +14,9 @@
     - title: 仙台市営バス
       url: https://www.dokobasu.kotsu.city.sendai.jp/wgsys/wgp/search.htm
       note: バス接近情報
-    - title: 宮城交通バス
+    - title: 宮城交通バス（PC）
       url: https://miyakou.bus-navigation.jp/wgsys/wgp/search.htm
-      note: バス接近情報
-    - title: 宮城交通バス（別画面）
+      note: PC 向け
+    - title: 宮城交通バス（スマホ）
       url: https://miyakou.bus-navigation.jp/wgsys/wgs/search.htm
-      note: バス接近情報
+      note: スマホ向け
