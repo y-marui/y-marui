@@ -1,4 +1,22 @@
 # Link tiles shown on /links/sendai/. Each group renders as a grid of square tiles.
 # Fields: title (required), url (required), note (optional short caption)
-# Add groups like the other link files; while empty, the page shows "準備中です。"
-[]
+- group: Local
+  items:
+    - title: 仙台朝市
+      url: https://sendaiasaichi.com/
+      note: 仙台の朝市
+
+- group: Transit
+  items:
+    - title: 仙台 MaaS
+      url: https://sendai-maas.jp/
+      note: 移動のサービス
+    - title: 仙台市営バス
+      url: https://www.dokobasu.kotsu.city.sendai.jp/wgsys/wgp/search.htm
+      note: バス接近情報
+    - title: 宮城交通バス
+      url: https://miyakou.bus-navigation.jp/wgsys/wgp/search.htm
+      note: バス接近情報
+    - title: 宮城交通バス（別画面）
+      url: https://miyakou.bus-navigation.jp/wgsys/wgs/search.htm
+      note: バス接近情報
