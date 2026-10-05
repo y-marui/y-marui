@@ -1,0 +1,4 @@
+# Link tiles shown on /links/sendai/. Each group renders as a grid of square tiles.
+# Fields: title (required), url (required), note (optional short caption)
+# Add groups like the other link files; while empty, the page shows "準備中です。"
+[]
