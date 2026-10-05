@@ -3,6 +3,7 @@ layout: default
 title: Focus Scope Changelog
 permalink: /products/chrome-focus-scope/changelog/
 product:
+  name: Focus Scope
   base: /products/chrome-focus-scope/
   stores:
     - label: Chrome Web Store
@@ -10,14 +11,6 @@ product:
     - label: Firefox Add-ons
       url: https://addons.mozilla.org/ja/firefox/addon/focus-scope/
 ---
-
-# Focus Scope 変更履歴
-
-## 2026-10-02
-
-- プライバシーポリシーと利用規約を、それぞれ独立した公開ページとして整備しました。
-
-## English
 
 # Focus Scope Changelog
 

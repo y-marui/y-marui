@@ -3,6 +3,7 @@ layout: default
 title: Library Check for Zotero Terms of Use
 permalink: /products/chrome-library-check-for-zotero/terms/
 product:
+  name: Library Check for Zotero
   base: /products/chrome-library-check-for-zotero/
   stores:
     - label: Chrome Web Store
@@ -11,7 +12,7 @@ product:
       url: https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/
 ---
 
-# Zotero Library Checker - Duplicate Reference Detection
+# Library Check for Zotero – Prevent Duplicates
 
 > 本ページでは、まず日本語による正式版を掲載し、その後に英語翻訳版を掲載しています。
 >
@@ -27,7 +28,7 @@ product:
 
 ## 1. 適用
 
-本利用規約（以下「本規約」）は、Chrome拡張機能「Zotero Library Checker - Duplicate Reference Detection」（以下「本拡張」）の利用条件を定めるものです。
+本利用規約（以下「本規約」）は、Chrome拡張機能「Library Check for Zotero – Prevent Duplicates」（以下「本拡張」）の利用条件を定めるものです。
 本拡張をインストールまたは利用した時点で、本規約に同意したものとみなします。
 
 ## 2. 無償提供およびサポート
@@ -94,7 +95,7 @@ product:
 
 ## 1. Acceptance
 
-These Terms of Use (“Terms”) govern the use of the Chrome extension “Zotero Library Checker - Duplicate Reference Detection” (“the Extension”).
+These Terms of Use (“Terms”) govern the use of the Chrome extension “Library Check for Zotero – Prevent Duplicates” (“the Extension”).
 By installing or using the Extension, you agree to these Terms.
 
 ## 2. Free Provision and Support

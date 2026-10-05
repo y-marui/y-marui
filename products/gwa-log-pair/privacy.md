@@ -3,6 +3,7 @@ layout: default
 title: Log Pair Privacy Policy
 permalink: /products/gwa-log-pair/privacy/
 product:
+  name: Log Pair
   base: /products/gwa-log-pair/
 ---
 

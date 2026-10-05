@@ -3,6 +3,7 @@ layout: default
 title: Focus Scope Privacy Policy
 permalink: /products/chrome-focus-scope/privacy/
 product:
+  name: Focus Scope
   base: /products/chrome-focus-scope/
   stores:
     - label: Chrome Web Store

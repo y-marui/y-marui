@@ -8,7 +8,7 @@ permalink: /products/
 
 ## Browser Extensions
 
-### [Zotero Library Checker - Duplicate Reference Detection](chrome-library-check-for-zotero/)
+### [Library Check for Zotero – Prevent Duplicates](chrome-library-check-for-zotero/)
 
 Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
 

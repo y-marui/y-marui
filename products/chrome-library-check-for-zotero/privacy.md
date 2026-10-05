@@ -3,6 +3,7 @@ layout: default
 title: Library Check for Zotero Privacy Policy
 permalink: /products/chrome-library-check-for-zotero/privacy/
 product:
+  name: Library Check for Zotero
   base: /products/chrome-library-check-for-zotero/
   stores:
     - label: Chrome Web Store
@@ -11,7 +12,7 @@ product:
       url: https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/
 ---
 
-# Zotero Library Checker - Duplicate Reference Detection
+# Library Check for Zotero – Prevent Duplicates
 
 > 本ページでは、まず日本語による正式版を掲載し、その後に英語翻訳版を掲載しています。
 >
@@ -27,7 +28,7 @@ product:
 
 ## 1. 提供者およびサービス概要
 
-Zotero Library Checker - Duplicate Reference Detection（以下「本拡張」）は、個人開発者により無償で提供されるブラウザ拡張機能です。
+Library Check for Zotero – Prevent Duplicates（以下「本拡張」）は、個人開発者により無償で提供されるブラウザ拡張機能です。
 本拡張は、ユーザーが閲覧している論文ページの情報を基に、当該論文がローカル環境のZoteroライブラリに登録されているかを確認するための補助ツールです。
 
 本拡張は、ユーザーのコンピュータ上で動作するZoteroアプリケーション（localhost:23119）とのみ通信します。
@@ -70,7 +71,7 @@ Zotero Library Checker - Duplicate Reference Detection（以下「本拡張」�
 
 ## 1. Provider and Service Overview
 
-Zotero Library Checker - Duplicate Reference Detection (the “Extension”) is a free browser extension provided by an individual developer.
+Library Check for Zotero – Prevent Duplicates (the “Extension”) is a free browser extension provided by an individual developer.
 The Extension checks whether a paper currently viewed in the browser is already registered in the user’s local Zotero library.
 
 The Extension communicates only with the Zotero application running locally on the user’s computer (localhost:23119).

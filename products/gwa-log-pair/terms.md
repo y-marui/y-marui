@@ -3,6 +3,7 @@ layout: default
 title: Log Pair Terms of Use
 permalink: /products/gwa-log-pair/terms/
 product:
+  name: Log Pair
   base: /products/gwa-log-pair/
 ---
 

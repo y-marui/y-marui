@@ -3,6 +3,7 @@ layout: default
 title: Library Check for Zotero Changelog
 permalink: /products/chrome-library-check-for-zotero/changelog/
 product:
+  name: Library Check for Zotero
   base: /products/chrome-library-check-for-zotero/
   stores:
     - label: Chrome Web Store
@@ -10,14 +11,6 @@ product:
     - label: Firefox Add-ons
       url: https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/
 ---
-
-# Library Check for Zotero – Prevent Duplicates 変更履歴
-
-## 2026-10-02
-
-- プライバシーポリシーと利用規約を、それぞれ独立した公開ページとして整備しました。
-
-## English
 
 # Library Check for Zotero – Prevent Duplicates Changelog
 

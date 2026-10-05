@@ -3,6 +3,7 @@ layout: default
 title: Focus Scope Terms of Use
 permalink: /products/chrome-focus-scope/terms/
 product:
+  name: Focus Scope
   base: /products/chrome-focus-scope/
   stores:
     - label: Chrome Web Store

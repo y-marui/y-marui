@@ -3,6 +3,7 @@ layout: default
 title: Focus Scope
 permalink: /products/chrome-focus-scope/
 product:
+  name: Focus Scope
   base: /products/chrome-focus-scope/
   stores:
     - label: Chrome Web Store
@@ -12,16 +13,6 @@ product:
 ---
 
 # Focus Scope - Smart Website Blocker
-
-SNSや時間を奪うサイトをブロックします。スプリントや曜日・時間帯のスケジュールで集中を保つためのサイトブロッカーです。
-
-## 関連ページ
-
-- [プライバシーポリシー](privacy/)
-- [利用規約](terms/)
-- [変更履歴](changelog/)
-
-## English
 
 Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
 

@@ -3,6 +3,7 @@ layout: default
 title: Library Check for Zotero
 permalink: /products/chrome-library-check-for-zotero/
 product:
+  name: Library Check for Zotero
   base: /products/chrome-library-check-for-zotero/
   stores:
     - label: Chrome Web Store
@@ -12,16 +13,6 @@ product:
 ---
 
 # Library Check for Zotero – Prevent Duplicates
-
-現在閲覧している論文が、ローカルの Zotero ライブラリにすでに登録されているかをすぐに確認します。文献の重複登録を防ぐためのツールです。
-
-## 関連ページ
-
-- [プライバシーポリシー](privacy/)
-- [利用規約](terms/)
-- [変更履歴](changelog/)
-
-## English
 
 Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
 
