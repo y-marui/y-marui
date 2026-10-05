@@ -1,12 +1,12 @@
 ---
 layout: default
 wide: true
-title: Other Links
+title: Hobby & Life
 permalink: /links/other/
 ---
 
-# Other Links
+# Hobby & Life
 
-好きなサイトへのリンク集です。
+趣味・生活に関するリンク集です。
 
 {% include link-tiles.html groups=site.data.links.other %}
