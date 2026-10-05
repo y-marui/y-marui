@@ -59,6 +59,21 @@
     - title: スマイティ
       url: https://sumaity.com/
       note: 不動産住宅情報
+    - title: SUUMO
+      url: https://suumo.jp/
+      note: 不動産・住宅情報
+    - title: アットホーム
+      url: https://www.athome.co.jp/
+      note: 不動産情報
+    - title: ETC利用照会サービス
+      url: https://www.etc-meisai.jp/index.html
+      note: ETC利用明細の照会
+
+- group: Sauna
+  items:
+    - title: サウナイキタイ
+      url: https://sauna-ikitai.com/
+      note: サウナ施設の検索
 
 - group: Investing
   items:
