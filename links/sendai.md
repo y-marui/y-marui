@@ -1,11 +1,11 @@
 ---
 layout: default
 wide: true
-title: Sendai Local
+title: Sendai
 permalink: /links/sendai/
 ---
 
-# Sendai Local
+# Sendai
 
 仙台のローカル情報に関するリンク集です。
 

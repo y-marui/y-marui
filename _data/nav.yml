@@ -11,7 +11,7 @@
 - label: Hobby & Life
   url: /links/other/
   match: /links/other/
-- label: Sendai Local
+- label: Sendai
   url: /links/sendai/
   match: /links/sendai/
 - label: Blog
