@@ -15,6 +15,7 @@ link_tiles: true
 * [PIVOT](https://pivotmedia.co.jp/): ビジネス映像メディア
 * [SCRAP BOOK](http://s-scrap.com/): 短いコメンタリー集
 * [本の話](https://books.bunshun.jp/): 文藝春秋の書籍情報
+* [Literary Hub](https://lithub.com/): 文芸ニュース・書評
 * [映画ウォッチ](https://eiga-watch.com/): 映画のあらすじ・感想
 * [NHK WORLD-JAPAN Live](https://www3.nhk.or.jp/nhkworld/en/live_tv/): ライブ配信
 * [TVer](https://tver.jp/mypage/fav): お気に入り番組
