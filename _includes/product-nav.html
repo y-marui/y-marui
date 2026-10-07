@@ -6,9 +6,13 @@
     {% if page.product.wiki %}
     <a href="{{ page.product.base | append: 'wiki/' | relative_url }}">Usage</a>
     {% endif %}
+    {% unless page.product.hide_changelog %}
     <a href="{{ page.product.base | append: 'changelog/' | relative_url }}">Changelog</a>
+    {% endunless %}
     <a href="{{ page.product.base | append: 'privacy/' | relative_url }}">Privacy Policy</a>
+    {% unless page.product.hide_terms %}
     <a href="{{ page.product.base | append: 'terms/' | relative_url }}">Terms of Use</a>
+    {% endunless %}
     {% for store in page.product.stores %}
     <a href="{{ store.url }}" rel="noopener noreferrer">{{ store.label }}</a>
     {% endfor %}
