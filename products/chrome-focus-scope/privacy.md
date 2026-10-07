@@ -47,7 +47,7 @@ Focus Scope - Smart Website Blocker（以下「本拡張機能」）は、個人
 - パスワード、認証情報
 - 閲覧履歴
 - 閲覧内容の外部送信
-- 外部サーバーへのデータ送信
+- ユーザーの設定情報や閲覧情報の外部サーバーへの送信（祝日機能による通信は「5. 外部送信および第三者提供」を参照）
 
 ## 3. 利用目的
 
@@ -68,6 +68,10 @@ chrome.storage.sync に保存される設定情報は、同一の Google アカ�
 
 本拡張機能は、ユーザー情報を第三者に販売、共有、提供することはありません。
 
+### 祝日機能による通信
+
+設定で祝日の国を選択した場合（初期値は「なし」で、通信は行われません）に限り、公開祝日を取得するため、第三者の祝日情報API（https://date.nager.at）へ「年」と「国コード」のみを送信します。ブロック対象URL、閲覧中のページ、その他の設定は送信しません。なお、通信にあたって、通信先にはお使いのIPアドレスが通知されます。
+
 ## 6. 権限およびAPIの利用
 
 本拡張機能は、ユーザーが指定したURLとの一致判定およびアクセス制御のために必要最小限の権限のみを使用します。
@@ -78,7 +82,7 @@ chrome.storage.sync に保存される設定情報は、同一の Google アカ�
 本ポリシーは、必要に応じて改定されることがあります。
 改定後の内容は、本ページに掲載された時点で効力を生じます。
 
-最終更新日: 2026年10月2日
+最終更新日: 2026年10月7日
 
 # Privacy Policy (English Translation – Reference Only)
 
@@ -102,7 +106,7 @@ The Extension does NOT collect:
 - Passwords or authentication data
 - Browsing history
 - Page content
-- Any data transmitted to external servers
+- Your settings or browsing information sent to external servers (for the holiday feature, see “5. External Transmission and Third-Party Sharing”)
 
 ## 3. Purpose of Use
 
@@ -123,6 +127,10 @@ Settings stored with chrome.storage.sync are synchronized between Chrome browser
 
 No user data is sold, shared, or provided to third parties.
 
+### Holiday feature
+
+Only when you select a holiday country in the settings (the default is “None”, in which case no request is made), the Extension sends the year and the country code, and nothing else, to a third-party public holiday API (https://date.nager.at) to fetch public holidays. Your blocklists, the pages you visit and your other settings are never sent. As with any network request, your IP address is visible to that service.
+
 ## 6. Permissions and APIs
 
 The Extension uses only the permissions necessary to match user-defined URLs and control access to those URLs. Information processed through these permissions is not used for any other purpose.
@@ -131,4 +139,4 @@ The Extension uses only the permissions necessary to match user-defined URLs and
 
 This policy may be revised as necessary. Revised content takes effect when published on this page.
 
-Last updated: October 2, 2026
+Last updated: October 7, 2026
