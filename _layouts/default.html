@@ -60,5 +60,8 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if page.link_tiles %}
+    <script src="{{ "/assets/js/link-tiles.js" | relative_url }}"></script>
+    {% endif %}
   </body>
 </html>
