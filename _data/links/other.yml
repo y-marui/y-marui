@@ -1,92 +1,5 @@
 # Link tiles shown on /links/other/. Each group renders as a grid of square tiles.
 # Fields: title (required), url (required), note (optional short caption)
-- group: Infographics
-  items:
-    - title: インフォグラフィック
-      url: https://info-graphic.me/
-      note: 情報を視覚化する
-    - title: ZUNNY
-      url: https://zunny.jp/
-      note: 図にするとわかるニュース
-    - title: infographic.jp
-      url: http://infographic.jp/
-      note: エコンテの作品集
-
-- group: Learning
-  items:
-    - title: CS50 Japanese
-      url: https://cs50.jp/
-      note: CS入門
-    - title: Tama Design University
-      url: https://tub.tamabi.ac.jp/tdu/
-      note: デザインのバーチャル大学
-    - title: AtCoder
-      url: https://atcoder.jp/home
-      note: プログラミングコンテスト
-
-- group: Art
-  items:
-    - title: Google Arts & Culture
-      url: https://artsandculture.google.com/nearby?hl=ja
-      note: 現在地周辺の文化施設
-    - title: Art Scenes
-      url: https://art-scenes.net/ja/
-      note: アートECモール
-
-- group: Art Workshops
-  items:
-    - title: artwine.tokyo
-      url: https://artwine.tokyo/collections/all-the-workshops
-      note: 絵画とワインのワークショップ
-    - title: ×art
-      url: https://kakeruart.com/collections/all-session
-      note: 東京の美術教室
-    - title: Artbar Tokyo
-      url: https://artbar.co.jp/events-schedule/
-      note: ペインティングクラス
-
-- group: Music
-  items:
-    - title: earsense
-      url: https://www.earsense.org/
-      note: 室内楽データベース
-    - title: Exportify
-      url: https://watsonbox.github.io/exportify/
-      note: Spotify プレイリストの書き出し
-
-- group: Living
-  items:
-    - title: スマイティ
-      url: https://sumaity.com/
-      note: 不動産住宅情報
-    - title: SUUMO
-      url: https://suumo.jp/
-      note: 不動産・住宅情報
-    - title: アットホーム
-      url: https://www.athome.co.jp/
-      note: 不動産情報
-    - title: ETC利用照会サービス
-      url: https://www.etc-meisai.jp/index.html
-      note: ETC利用明細の照会
-
-- group: Sauna
-  items:
-    - title: サウナイキタイ
-      url: https://sauna-ikitai.com/
-      note: サウナ施設の検索
-
-- group: Investing
-  items:
-    - title: FUNDINNO
-      url: https://fundinno.com/
-      note: 株式投資型クラウドファンディング
-    - title: イークラウド
-      url: https://lp.ecrowd.co.jp/
-      note: 株式投資型クラウドファンディング
-    - title: SHAREHOLDER LETTERS
-      url: https://www.berkshirehathaway.com/letters/letters.html
-      note: バークシャーの株主への手紙
-
 - group: Media
   items:
     - title: PIVOT
@@ -110,6 +23,66 @@
     - title: ewocau
       url: https://kallcart.com/
 
+- group: Music
+  items:
+    - title: earsense
+      url: https://www.earsense.org/
+      note: 室内楽データベース
+    - title: Exportify
+      url: https://watsonbox.github.io/exportify/
+      note: Spotify プレイリストの書き出し
+
+- group: Art
+  items:
+    - title: Google Arts & Culture
+      url: https://artsandculture.google.com/nearby?hl=ja
+      note: 現在地周辺の文化施設
+    - title: Art Scenes
+      url: https://art-scenes.net/ja/
+      note: アートECモール
+
+- group: Art Workshops
+  items:
+    - title: artwine.tokyo
+      url: https://artwine.tokyo/collections/all-the-workshops
+      note: 絵画とワインのワークショップ
+    - title: ×art
+      url: https://kakeruart.com/collections/all-session
+      note: 東京の美術教室
+    - title: Artbar Tokyo
+      url: https://artbar.co.jp/events-schedule/
+      note: ペインティングクラス
+
+- group: Sauna
+  items:
+    - title: サウナイキタイ
+      url: https://sauna-ikitai.com/
+      note: サウナ施設の検索
+
+- group: Learning
+  items:
+    - title: CS50 Japanese
+      url: https://cs50.jp/
+      note: CS入門
+    - title: Tama Design University
+      url: https://tub.tamabi.ac.jp/tdu/
+      note: デザインのバーチャル大学
+    - title: AtCoder
+      url: https://atcoder.jp/home
+      note: プログラミングコンテスト
+
+- group: Infographics
+  items:
+    - title: インフォグラフィック
+      url: https://info-graphic.me/
+      note: 情報を視覚化する
+    - title: ZUNNY
+      url: https://zunny.jp/
+      note: 図にするとわかるニュース
+    - title: infographic.jp
+      url: http://infographic.jp/
+      note: エコンテの作品集
+
 - group: Shopping
   items:
     - title: DULTON
@@ -118,6 +91,18 @@
     - title: 園芸ネット
       url: https://www.engei.net
       note: 観葉植物と園芸用品
+
+- group: Investing
+  items:
+    - title: FUNDINNO
+      url: https://fundinno.com/
+      note: 株式投資型クラウドファンディング
+    - title: イークラウド
+      url: https://lp.ecrowd.co.jp/
+      note: 株式投資型クラウドファンディング
+    - title: SHAREHOLDER LETTERS
+      url: https://www.berkshirehathaway.com/letters/letters.html
+      note: バークシャーの株主への手紙
 
 - group: Car Rental
   items:
@@ -160,3 +145,18 @@
     - title: スマートEX
       url: https://smart-ex.jp/top.php
       note: 新幹線の予約
+
+- group: Living
+  items:
+    - title: スマイティ
+      url: https://sumaity.com/
+      note: 不動産住宅情報
+    - title: SUUMO
+      url: https://suumo.jp/
+      note: 不動産・住宅情報
+    - title: アットホーム
+      url: https://www.athome.co.jp/
+      note: 不動産情報
+    - title: ETC利用照会サービス
+      url: https://www.etc-meisai.jp/index.html
+      note: ETC利用明細の照会
