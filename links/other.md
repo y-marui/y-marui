@@ -80,7 +80,7 @@ link_tiles: true
 
 * [えきねっと](https://www.eki-net.com/personal/top/index): JR 東日本の予約
 * [どこかにビューーン！](https://dokokani-eki-net.com/): えきねっとの行き先おまかせ
-* [JR東日本](https://go.jreast.co.jp/site/index.html): JR 東日本
+* [JRE GO](https://go.jreast.co.jp/): JR 東日本のあたらしい新幹線予約サービス
 * [スマートEX](https://smart-ex.jp/top.php): 新幹線の予約
 
 ## Living
