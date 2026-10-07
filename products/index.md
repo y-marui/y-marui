@@ -22,6 +22,12 @@ Block SNS and time-wasting sites. A site blocker to keep your focus going with s
 - [Chrome Web Store](https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg)
 - [Firefox Add-ons](https://addons.mozilla.org/ja/firefox/addon/focus-scope/)
 
+## Apps
+
+### [Stick Mark - Sticky Markdown Notes](stick-mark/)
+
+Markdown notes for Mac and iPhone. Show a note as a desktop widget, and sync with iCloud.
+
 ## Google Workspace Add-ons
 
 ### [Log Pair](gwa-log-pair/)
