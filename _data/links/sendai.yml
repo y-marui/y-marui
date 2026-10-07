@@ -38,6 +38,57 @@
       url: https://rias-ark.sakura.ne.jp/2/
       note: 気仙沼
 
+- group: Museums (Tohoku)
+  items:
+    - title: 福島県立美術館
+      url: https://art-museum.fcs.ed.jp/
+      note: 福島
+    - title: 郡山市立美術館
+      url: https://www.city.koriyama.lg.jp/site/artmuseum/
+      note: 福島
+    - title: 諸橋近代美術館
+      url: https://dali.jp/
+      note: 福島
+    - title: 青森県立美術館
+      url: https://www.aomori-museum.jp/
+      note: 青森
+    - title: 八戸市美術館
+      url: https://hachinohe-art-museum.jp/
+      note: 青森
+    - title: 弘前れんが倉庫美術館
+      url: https://www.hirosaki-moca.jp/
+      note: 青森
+
+- group: Museums (Tokyo)
+  items:
+    - title: 国立西洋美術館
+      url: https://www.nmwa.go.jp/jp/
+      note: 上野
+    - title: 東京都美術館
+      url: https://www.tobikan.jp/
+      note: 上野
+    - title: 上野の森美術館
+      url: https://www.ueno-mori.org/
+      note: 上野
+    - title: アーティゾン美術館
+      url: https://www.artizon.museum/
+      note: 東京
+    - title: 東京ステーションギャラリー
+      url: https://www.ejrcf.or.jp/gallery/
+      note: 東京
+    - title: 国立新美術館
+      url: https://www.nact.jp/
+      note: 六本木
+    - title: 根津美術館
+      url: https://www.nezu-muse.or.jp/
+      note: 表参道
+    - title: サントリー美術館
+      url: https://www.suntory.co.jp/sma/
+      note: 六本木
+    - title: SOMPO美術館
+      url: https://www.sompo-museum.org/
+      note: 新宿
+
 - group: Cinema
   items:
     - title: TOHOシネマズ
