@@ -118,3 +118,45 @@
     - title: 園芸ネット
       url: https://www.engei.net
       note: 観葉植物と園芸用品
+
+- group: Car Rental
+  items:
+    - title: ニコニコレンタカー
+      url: https://www.2525r.com/
+      note: レンタカー
+    - title: タイムズカーレンタル
+      url: https://rental.timescar.jp/
+      note: レンタカー
+    - title: ニッポンレンタカー
+      url: https://www.nipponrentacar.co.jp/
+      note: レンタカー
+    - title: オリックスレンタカー
+      url: https://car.orix.co.jp/
+      note: レンタカー
+    - title: トヨタレンタカー
+      url: https://rent.toyota.co.jp/
+      note: レンタカー
+
+- group: Car Share
+  items:
+    - title: タイムズカー
+      url: https://share.timescar.jp/
+      note: カーシェア
+    - title: 三井のカーシェアーズ
+      url: https://member.carshares.jp/member/login
+      note: カーシェア
+
+- group: Train
+  items:
+    - title: えきねっと
+      url: https://www.eki-net.com/personal/top/index
+      note: JR 東日本の予約
+    - title: どこかにビューーン！
+      url: https://dokokani-eki-net.com/
+      note: えきねっとの行き先おまかせ
+    - title: JR東日本
+      url: https://go.jreast.co.jp/site/index.html
+      note: JR 東日本
+    - title: スマートEX
+      url: https://smart-ex.jp/top.php
+      note: 新幹線の予約
