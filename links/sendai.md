@@ -16,6 +16,7 @@ link_tiles: true
 * [あとりえ青輝鳥](https://www.seikicho.com/): 漆アクセサリー
 * [antique leaves](https://antique-leaves.com/?pid=110402255)
 * [仙台の余暇の過ごし方](https://note.com/y_mamanaranu/n/n2009394943ba): note
+* [みやぎオルレ](https://www.miyagiolle.jp/): 宮城のウォーキングコース
 
 ## Museums
 
