@@ -83,6 +83,7 @@ link_tiles: true
 ## Transit
 
 * [仙台 MaaS](https://sendai-maas.jp/): 移動のサービス
-* [仙台市営バス](https://www.dokobasu.kotsu.city.sendai.jp/wgsys/wgp/search.htm): バス接近情報
+* [仙台市営バス（PC）](https://www.dokobasu.kotsu.city.sendai.jp/wgsys/wgp/search.htm): PC 向け
+* [仙台市営バス（スマホ）](https://www.dokobasu.kotsu.city.sendai.jp/wgsys/wgs/search.htm): スマホ向け
 * [宮城交通バス（PC）](https://miyakou.bus-navigation.jp/wgsys/wgp/search.htm): PC 向け
 * [宮城交通バス（スマホ）](https://miyakou.bus-navigation.jp/wgsys/wgs/search.htm): スマホ向け
