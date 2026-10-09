@@ -21,7 +21,7 @@ link_tiles: true
 ## Tools
 
 * [Overleaf](https://ja.overleaf.com/project): LaTeX エディタ
-* [Wolfram|Alpha](https://www.wolframalpha.com/): 計算・知識エンジン
+* [Wolfram\|Alpha](https://www.wolframalpha.com/): 計算・知識エンジン
 * [Desmos](https://www.desmos.com/?lang=ja): グラフ計算機
 * [AtomWork](https://crystdb.nims.go.jp/crystdb/search-materials): 無機材料データベース
 
