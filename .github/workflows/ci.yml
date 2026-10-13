@@ -27,6 +27,9 @@ jobs:
           python-version: "3.12"
       - run: pip install pre-commit
       - run: pre-commit run --all-files --show-diff-on-failure
+        env:
+          # powershell-lint is a local-only helper; the branch guard only applies to local commits
+          SKIP: powershell-lint,check-not-on-default-branch
 
   gate:
     name: CI

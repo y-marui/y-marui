@@ -29,6 +29,8 @@ Charter reference: read `docs/dev-charter/CHARTER_INDEX.md` to find the topic, t
 - Product home pages and `products/index.md` are English only. Japanese appears only in the official versions of `privacy.md` and `terms.md`.
 - Never print the support email address in Markdown or HTML. Use `{% include contact.html %}`.
 - This repository is published with Jekyll. Files that must not become pages (AI context, `docs/`) are listed in `exclude:` of `_config.yml`. Add new non-site files there.
+- `scripts/*.sh` and `.gitleaks.toml` are copied from the `full` branch of dev-charter (the `lite` branch does not include them). `git subtree pull` does not update them; compare with `dev-charter/full` when updating the charter.
+- The heading language check (English headings) skips `products/*/privacy.md` and `products/*/terms.md`, which use Japanese headings by `products/README.md`. That file takes precedence over `LANGUAGE_POLICY.md` for product pages.
 - Check rendered pages in the browser after publishing when pages or layouts change.
 
 ## AI Tool Assignments
