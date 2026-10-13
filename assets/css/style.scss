@@ -132,3 +132,18 @@ header #toc ul {
     font-size: 11px;
     overflow-wrap: break-word;
 }
+
+.contact-email__button {
+    padding: 2px 10px;
+    border: 1px solid #e5e5e5;
+    border-radius: 4px;
+    background: #fff;
+    color: #267cb9;
+    font: inherit;
+    cursor: pointer;
+}
+
+.contact-email__button:hover,
+.contact-email__button:focus-visible {
+    background: #f5f5f5;
+}
