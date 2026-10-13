@@ -24,8 +24,6 @@ If you have a question, find a bug, or want to request a feature, please contact
 
 {% include contact.html %}
 
-Requests concerning personal information must be sent by email, not through GitHub Issues.
-
 The service is run by an individual developer. Replies may take some time.
 
 ## Pages

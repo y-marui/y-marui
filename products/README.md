@@ -39,7 +39,7 @@ products/<github-repository-name>/
 `{% include contact.html %}` を使います。アドレスは `assets/js/contact-email.js` が、利用者がボタンを
 押したときだけ表示します。Chrome 拡張は、先に Chrome ウェブストアのサポートページ
 （`https://chromewebstore.google.com/detail/<拡張機能ID>/support`）を案内します。
-個人情報の開示請求など非公開の連絡が必要な製品では、メールで送るよう明記します。
+製品の問い合わせは、GitHub Issues を使わずメールだけで受けます（このリポジトリの Issues は製品の窓口ではなく、非公開の内容も扱うため）。
 
 各ページの front matter には、少なくとも `layout`、`title`、`permalink`、`product.base` を設定します。ストアがある製品は、すべての製品ページで同一の `product.stores` を設定します。
 
