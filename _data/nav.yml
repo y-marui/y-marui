@@ -5,13 +5,13 @@
 - label: Products
   url: /products/
   match: /products/
-- label: Research & Work
+- label: "Links: Research & Work"
   url: /links/research/
   match: /links/research/
-- label: Hobby & Life
+- label: "Links: Hobby & Life"
   url: /links/other/
   match: /links/other/
-- label: Sendai
+- label: "Links: Sendai"
   url: /links/sendai/
   match: /links/sendai/
 - label: Blog
