@@ -34,7 +34,7 @@ Markdown notes for Mac and iPhone. Show a note as a desktop widget, and sync wit
 
 Get an email when a preprint you follow is published as a journal article with a DOI. Invitation only, for people with an .ac.jp address.
 
-- [Web App](https://preprint-lan.ymarui.com/top)
+- [Web App](https://preprint.ymarui.com/)
 
 ## Google Workspace Add-ons
 

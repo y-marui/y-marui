@@ -7,7 +7,7 @@ product:
   base: /products/python-preprint-publish-tracker/
   stores:
     - label: Web App
-      url: https://preprint-lan.ymarui.com/top
+      url: https://preprint.ymarui.com/
 ---
 
 # Preprint Publish Tracker Changelog
