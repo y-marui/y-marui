@@ -1,2 +1,10 @@
 title: Yukihiro
 theme: jekyll-theme-minimal
+exclude:
+  - AI_CONTEXT.md
+  - AGENTS.md
+  - CLAUDE.md
+  - docs/
+  - scripts/
+  - Gemfile
+  - Gemfile.lock

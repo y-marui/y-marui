@@ -16,6 +16,14 @@ product:
 
 Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
 
+## Support
+
+If you have a question, find a bug, or want to request a feature, please use the [support page on the Chrome Web Store](https://chromewebstore.google.com/detail/dnpccglkhnnlogdolajjhehicbegnlcg/support), or contact:
+
+{% include contact.html %}
+
+The extension is developed by an individual developer. Replies may take some time.
+
 ## Pages
 
 - [Privacy Policy](privacy/)
