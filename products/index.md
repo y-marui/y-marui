@@ -28,6 +28,14 @@ Block SNS and time-wasting sites. A site blocker to keep your focus going with s
 
 Markdown notes for Mac and iPhone. Show a note as a desktop widget, and sync with iCloud.
 
+## Web Apps
+
+### [Preprint Publish Tracker](python-preprint-publish-tracker/)
+
+Get an email when a preprint you follow is published as a journal article with a DOI. Invitation only, for people with an .ac.jp address.
+
+- [Web App](https://preprint-lan.ymarui.com/top)
+
 ## Google Workspace Add-ons
 
 ### [Log Pair](gwa-log-pair/)

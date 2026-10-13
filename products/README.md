@@ -100,5 +100,6 @@ product:
 - `chrome-focus-scope`
 - `chrome-library-check-for-zotero`
 - `gwa-log-pair`
+- `python-preprint-publish-tracker`
 
 新たに Chrome 拡張、Firefox 拡張、Google Workspace Add-on、App Store 向けアプリなどを追加する場合も、この構成と方針を適用します。
