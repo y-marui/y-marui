@@ -17,6 +17,7 @@ link_tiles: true
 * [本の話](https://books.bunshun.jp/): 文藝春秋の書籍情報
 * [Literary Hub](https://lithub.com/): 文芸ニュース・書評
 * [Open Library](https://openlibrary.org/): 書籍のオンライン図書館・書誌データベース
+* [文学ちゃがま](https://bungaku-chagama.unext.jp/)
 * [映画ウォッチ](https://eiga-watch.com/): 映画のあらすじ・感想
 * [NHK WORLD-JAPAN Live](https://www3.nhk.or.jp/nhkworld/en/live_tv/): ライブ配信
 * [TVer](https://tver.jp/mypage/fav): お気に入り番組
