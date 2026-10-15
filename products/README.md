@@ -108,4 +108,6 @@ product:
 - `gwa-log-pair`
 - `python-preprint-publish-tracker`
 
+LINE スタンプは、LINE Store の作者ページへのリンクだけを `products/index.md` とルート `README.md` に載せます。独自ページ（`products/<name>/`）は作りません。スタンプは個人情報を扱わず、プライバシーポリシーや利用規約が不要なためです。
+
 新たに Chrome 拡張、Firefox 拡張、Google Workspace Add-on、App Store 向けアプリなどを追加する場合も、この構成と方針を適用します。

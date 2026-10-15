@@ -74,6 +74,9 @@ University researcher in Japan.
 ### Google Workspace Add-ons
 - <a href="{{ "/products/gwa-log-pair/" | relative_url }}" target="_blank" rel="noopener noreferrer">Log Pair</a>: Google Workspace Add-on that merges paired calendar events, such as clock-in and clock-out events.
 
+### LINE Stickers
+- <a href="https://store.line.me/stickershop/author/6751153/ja" target="_blank" rel="noopener noreferrer">LINE Stickers</a> [![LINE Store](https://img.shields.io/badge/LINE%20Store-00C300?logo=line&logoColor=white)](https://store.line.me/stickershop/author/6751153/ja): Sticker sets for LINE, available on the LINE Store.
+
 ## Posts
 - [Qiita](https://qiita.com/y_marui)
   - [最初に入れるやつら2021 - Qiita](https://qiita.com/y_marui/items/0ce03b01de0e7ea02de1)
