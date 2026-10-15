@@ -41,3 +41,11 @@ Get an email when a preprint you follow is published as a journal article with a
 ### [Log Pair](gwa-log-pair/)
 
 Google Workspace Add-on that merges paired calendar events, such as clock-in and clock-out events.
+
+## LINE Stickers
+
+### [LINE Stickers](https://store.line.me/stickershop/author/6751153/ja)
+
+Sticker sets for LINE, available on the LINE Store.
+
+- [LINE Store](https://store.line.me/stickershop/author/6751153/ja)
