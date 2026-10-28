@@ -1,17 +1,6 @@
 # Yukihiro Marui
 University researcher in Japan.
 
-## Academic Profiles
-- [Google Scholar](https://scholar.google.co.jp/citations?user=hs5E61wAAAAJ&hl=ja)
-- [ORCID](https://orcid.org/0009-0004-7882-308X)
-- [ResearchGate](https://www.researchgate.net/profile/Yukihiro-Marui?ev=hdr_xprf)
-
-## Research Field
-- Condensed Matter Physics
-- Spintronics
-- Spin-Orbitronics
-- Magneto-Optics
-
 ## Projects
 
 ### General
