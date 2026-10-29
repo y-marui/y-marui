@@ -5,14 +5,8 @@
 - label: Products
   url: /products/
   match: /products/
-- label: "Links: Research & Work"
-  url: /links/research/
-  match: /links/research/
-- label: "Links: Hobby & Life"
-  url: /links/other/
-  match: /links/other/
-- label: "Links: Sendai"
-  url: /links/sendai/
-  match: /links/sendai/
+- label: Links
+  url: /links/
+  match: /links/
 - label: Blog
   url: https://y-marui.hatenadiary.com/
