@@ -38,7 +38,7 @@
       if (!item.contains(event.relatedTarget)) sections.open = false;
     });
     item.addEventListener('keydown', function (event) {
-      if (event.key === 'Escape') {
+      if (event.key === 'Escape' && sections.open) {
         item.querySelector('.page-parent').focus();
         sections.open = false;
         event.stopPropagation();
