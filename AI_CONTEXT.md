@@ -2,11 +2,12 @@
 
 ## Project Overview
 
-Personal site of Yukihiro Marui, published with GitHub Pages (Jekyll, `jekyll-theme-minimal`) at https://y-marui.github.io/y-marui/.
+Personal site of Yukihiro Marui, published with GitHub Pages (Jekyll, Minima with a custom web-* skin) at https://dev.ymarui.com/.
 
 - `README.md`: the site top page (rendered by Jekyll). Do not turn it into a developer README.
 - `products/`: public pages for each product (home, privacy policy, terms, changelog). See `products/README.md`.
 - `links/`: link collections.
+- `docs/theme.md`: theme architecture, upstream attribution, and local preview instructions.
 - `_layouts/`, `_includes/`, `_data/`, `assets/`: Jekyll templates, navigation, CSS and JS.
 - `docs/dev-charter/`: dev-charter (lite), managed with `git subtree`. Do not edit directly.
 

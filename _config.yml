@@ -1,5 +1,15 @@
-title: Yukihiro
-theme: jekyll-theme-minimal
+title: Development
+description: Tools and software by Yukihiro Marui.
+repository: y-marui/y-marui
+theme: minima
+url: https://dev.ymarui.com
+baseurl: ""
+author: Yukihiro Marui
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
 exclude:
   - AI_CONTEXT.md
   - AGENTS.md

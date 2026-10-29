@@ -1,17 +1,21 @@
 <nav class="product-nav" aria-label="Product navigation">
   <div class="product-nav__items">
-    <a href="{{ '/' | relative_url }}">Top</a>
-    <a href="{{ '/products/' | relative_url }}">Products</a>
-    <a href="{{ page.product.base | relative_url }}">{{ page.product.name }}</a>
+    {% include nav-link.html url="/" label="Top" %}
+    {% include nav-link.html url="/products/" label="Products" %}
+    {% include nav-link.html url=page.product.base label=page.product.name %}
     {% if page.product.wiki %}
-    <a href="{{ page.product.base | append: 'wiki/' | relative_url }}">Usage</a>
+    {% assign section_url = page.product.base | append: "wiki/" %}
+    {% include nav-link.html url=section_url label="Usage" %}
     {% endif %}
     {% unless page.product.hide_changelog %}
-    <a href="{{ page.product.base | append: 'changelog/' | relative_url }}">Changelog</a>
+    {% assign section_url = page.product.base | append: "changelog/" %}
+    {% include nav-link.html url=section_url label="Changelog" %}
     {% endunless %}
-    <a href="{{ page.product.base | append: 'privacy/' | relative_url }}">Privacy Policy</a>
+    {% assign section_url = page.product.base | append: "privacy/" %}
+    {% include nav-link.html url=section_url label="Privacy Policy" %}
     {% unless page.product.hide_terms %}
-    <a href="{{ page.product.base | append: 'terms/' | relative_url }}">Terms of Use</a>
+    {% assign section_url = page.product.base | append: "terms/" %}
+    {% include nav-link.html url=section_url label="Terms of Use" %}
     {% endunless %}
     {% for store in page.product.stores %}
     <a href="{{ store.url }}" rel="noopener noreferrer">{{ store.label }}</a>
