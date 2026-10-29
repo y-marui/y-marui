@@ -137,9 +137,9 @@ pre code { white-space: pre; }
   .nav-menu[open] > summary .bar:nth-child(3) { transform: translateY(-8px) rotate(-45deg); }
   .nav-menu > nav { position: absolute; top: calc(100% - 8px); right: 8px; width: min(280px, calc(100vw - 16px)); max-height: calc(100svh - 84px); overflow-y: auto; background: var(--menu-bg); }
   .site-nav__items, .product-nav__items { flex-direction: column; align-items: stretch; padding: 0; gap: 0; }
-  .site-nav__items > * + *, .product-nav__items > * + * { border-top: 1px solid #fff; }
+  .nav-menu .site-nav__items > * + *, .nav-menu .product-nav__items > * + * { border-top: 1px solid #fff; }
   .nav-menu > nav a { display: block; padding: 14px 20px; border: 0; }
-  .nav-menu > nav a:hover, .nav-menu > nav a:focus-visible { background: var(--menu-hover); text-decoration: none; }
+  .nav-menu > nav a:hover, .nav-menu > nav a:focus-visible, .nav-menu > nav a:active, .nav-menu > nav a[aria-current] { background: var(--menu-hover); text-decoration: none; }
   .nav-menu .page-menu { padding-right: 0; }
   .nav-menu .page-parent { padding-right: 64px; }
   .nav-menu .page-menu::after { display: none; }
