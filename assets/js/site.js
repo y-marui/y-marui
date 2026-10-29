@@ -7,9 +7,11 @@
   updateMenu();
   narrow.addEventListener('change', updateMenu);
   var menuToggle = menu.querySelector(':scope > summary');
-  menu.addEventListener('toggle', function () {
+  function updateMenuLabel() {
     menuToggle.setAttribute('aria-label', menu.open ? 'Close menu' : 'Open menu');
-  });
+  }
+  menu.addEventListener('toggle', updateMenuLabel);
+  updateMenuLabel();
   menu.addEventListener('click', function (event) {
     if (narrow.matches && event.target.closest('a')) menu.open = false;
   });
