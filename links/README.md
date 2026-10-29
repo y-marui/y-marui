@@ -4,28 +4,29 @@
 
 ## Page Structure
 
-メニュー（`_data/nav.yml`）の並びと、各ページの位置づけは次のとおりです。
+リンク集の本文は `links/index.md` の1ファイルで管理し、`/links/` で公開します。メニューバーには Links を1項目だけ置きます。
 
-| メニュー表示 | URL | ページ | 位置づけ |
-| --- | --- | --- | --- |
-| Research & Work | `/links/research/` | `links/research.md` | 研究・仕事 |
-| Hobby & Life | `/links/other/` | `links/other.md` | 趣味・生活 |
-| Sendai | `/links/sendai/` | `links/sendai.md` | 仙台ローカル |
+H2 は次の順序とし、従来の分類（Seminars、Media、Transit など）はその下の H3 に置きます。
+
+1. Research & Work
+2. Hobby & Life
+3. Sendai
+
+旧 URL `/links/research/`、`/links/other/`、`/links/sendai/` は、各 HTML のリダイレクトから統合ページの対応する H2 に移動します。リンク本文は重複して管理しません。
 
 ## Basic Policy
 
-- メニュー表示とページ見出しは英語で統一します（Top / Products / Blog と揃えるため）。
-- URL は既存リンクを壊さないよう変更しません。そのため `/links/other/` の表示名は Hobby & Life ですが、URL とファイル名は `other` のままです。
-- 新しいリンク集を追加するときは、`links/<name>.md` と `_data/nav.yml` を揃えて更新します。メニューでは Blog より前、既存のリンク集の後ろに置きます。
-- ページのフロントマターに `wide: true` と `link_tiles: true` を付けます。`link_tiles` がないとタイル化されず、通常の箇条書きになります。
-- 項目がまだないページは、本文に「準備中です。」と書きます。
+- メニュー表示と見出しは英語で統一します。
+- 新しい分類は `links/index.md` に追加します。
+- 本文幅は通常のページと同じにし、フロントマターの `link_tiles: true` を維持します。
+- JavaScript が無効でも、通常のリンク付き箇条書きとして読めます。
 
 ## Link Format
 
-見出し（`##`）ごとにグループを作り、箇条書きでリンクを並べます。
+小見出し（`###`）ごとにグループを作り、箇条書きでリンクを並べます。
 
 ~~~markdown
-## Transit
+### Transit
 
 * [表示名](https://example.com/): 短い補足（補足は省略可）
 ~~~

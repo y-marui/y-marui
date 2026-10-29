@@ -1,0 +1,25 @@
+{% assign nav_page = site.pages | where: "url", include.url | first %}
+{% assign nav_base = include.url | relative_url %}
+{% if nav_page %}
+  {% if page.url == include.url %}
+    {% assign nav_content = content %}
+  {% else %}
+    {% assign nav_content = nav_page.content | markdownify %}
+  {% endif %}
+  {% capture nav_outline %}{% include toc.html html=nav_content class="page-outline" h_min=2 h_max=2 base_url=nav_base sanitize=true %}{% endcapture %}
+{% else %}
+  {% assign nav_outline = "" %}
+{% endif %}
+{% if nav_outline contains '<li' %}
+<div class="page-menu{% if include.muted %} is-muted{% endif %}">
+  <a class="page-parent" href="{{ nav_base }}"{% if page.url == include.url %} aria-current="page"{% endif %}>{{ include.label }}</a>
+  <details class="section-menu">
+    <summary aria-label="Show {{ include.label | escape }} sections"><span aria-hidden="true">⌄</span></summary>
+    <nav class="toc-dropdown" aria-label="{{ include.label | escape }} sections">
+      {{ nav_outline }}
+    </nav>
+  </details>
+</div>
+{% else %}
+<a{% if include.muted %} class="is-muted"{% endif %} href="{{ nav_base }}"{% if page.url == include.url %} aria-current="page"{% endif %}>{{ include.label }}</a>
+{% endif %}
