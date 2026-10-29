@@ -7,23 +7,29 @@
   updateMenu();
   narrow.addEventListener('change', updateMenu);
 
-  document.querySelectorAll('.page-menu').forEach(function (toc) {
-  toc.addEventListener('pointerenter', function (event) {
-    if (event.pointerType === 'mouse' && !narrow.matches) toc.open = true;
-  });
-  toc.addEventListener('pointerleave', function (event) {
-    if (event.pointerType === 'mouse' && !narrow.matches && !toc.contains(document.activeElement)) toc.open = false;
-  });
-  toc.addEventListener('keydown', function (event) {
-    if (event.key === 'Escape') {
-      toc.open = false;
-      toc.querySelector('summary').focus();
-    }
-  });
-  toc.querySelectorAll('a').forEach(function (link) {
-    link.addEventListener('click', function () { toc.open = false; });
-  });
-
+  document.querySelectorAll('.page-menu').forEach(function (item) {
+    var sections = item.querySelector('.section-menu');
+    item.addEventListener('pointerenter', function (event) {
+      if (event.pointerType === 'mouse') sections.open = true;
+    });
+    item.addEventListener('pointerleave', function (event) {
+      if (event.pointerType === 'mouse' && !item.contains(document.activeElement)) sections.open = false;
+    });
+    item.addEventListener('focusin', function () {
+      if (window.matchMedia('(hover: hover)').matches) sections.open = true;
+    });
+    item.addEventListener('focusout', function (event) {
+      if (!item.contains(event.relatedTarget)) sections.open = false;
+    });
+    item.addEventListener('keydown', function (event) {
+      if (event.key === 'Escape') {
+        item.querySelector('.page-parent').focus();
+        sections.open = false;
+      }
+    });
+    sections.querySelectorAll('a').forEach(function (link) {
+      link.addEventListener('click', function () { sections.open = false; });
+    });
   });
 
   document.querySelectorAll('a[href]').forEach(function (link) {

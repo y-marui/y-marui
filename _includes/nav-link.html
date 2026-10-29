@@ -11,13 +11,15 @@
   {% assign nav_outline = "" %}
 {% endif %}
 {% if nav_outline contains '<li' %}
-<details class="page-menu">
-  <summary{% if page.url == include.url %} aria-current="page"{% endif %}>{{ include.label }}</summary>
-  <nav class="toc-dropdown" aria-label="{{ include.label | escape }} sections">
-    <a class="page-overview" href="{{ nav_base }}">Overview</a>
-    {{ nav_outline }}
-  </nav>
-</details>
+<div class="page-menu">
+  <a class="page-parent" href="{{ nav_base }}"{% if page.url == include.url %} aria-current="page"{% endif %}>{{ include.label }}</a>
+  <details class="section-menu">
+    <summary aria-label="Show {{ include.label | escape }} sections"><span aria-hidden="true">⌄</span></summary>
+    <nav class="toc-dropdown" aria-label="{{ include.label | escape }} sections">
+      {{ nav_outline }}
+    </nav>
+  </details>
+</div>
 {% else %}
 <a href="{{ nav_base }}"{% if page.url == include.url %} aria-current="page"{% endif %}>{{ include.label }}</a>
 {% endif %}
