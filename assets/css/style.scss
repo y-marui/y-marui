@@ -13,6 +13,9 @@ $content-width: 868px;
 
 :root {
   --ink: #333537;
+  /* Charcoal mixed into white: 15% and 25%. */
+  --menu-bg: #e0e1e1;
+  --menu-hover: #cccdcd;
   --ink-soft: #5c5f62;
   --paper: #fff;
   --line: rgba(51, 53, 55, 0.28);
@@ -86,11 +89,11 @@ nav a[aria-current="page"] { font-weight: 400; }
 .page-menu:has(.section-menu[open]) > .page-parent { border-bottom-color: var(--ink); }
 .section-menu > summary { display: none; position: absolute; top: 6px; right: 0; width: 14px; list-style: none; text-align: center; font-size: 13px; }
 .section-menu > summary::-webkit-details-marker { display: none; }
-.toc-dropdown { position: absolute; top: 100%; margin-top: 8px; left: 50%; transform: translateX(-50%); width: max-content; min-width: 180px; max-width: min(320px, calc(100vw - 40px)); max-height: calc(100svh - 100px); overflow-y: auto; padding: 0; background: #f3f3f3; border: 0; }
+.toc-dropdown { position: absolute; top: 100%; margin-top: 8px; left: 50%; transform: translateX(-50%); width: max-content; min-width: 180px; max-width: min(320px, calc(100vw - 40px)); max-height: calc(100svh - 100px); overflow-y: auto; padding: 0; background: var(--menu-bg); border: 0; }
 .page-outline, .page-outline ul { margin: 0; padding: 0; list-style: none; }
 .page-outline li + li { margin-top: 0; border-top: 1px solid #fff; }
-.toc-dropdown .page-outline a { display: block; padding: 12px 20px; border: 0; background: #f3f3f3; text-decoration: none; }
-.toc-dropdown .page-outline a:hover, .toc-dropdown .page-outline a:focus-visible { background: #e5e5e5; text-decoration: none; }
+.toc-dropdown .page-outline a { display: block; padding: 12px 20px; border: 0; background: var(--menu-bg); text-decoration: none; }
+.toc-dropdown .page-outline a:hover, .toc-dropdown .page-outline a:focus-visible { background: var(--menu-hover); text-decoration: none; }
 summary { cursor: pointer; letter-spacing: 0.1em; }
 h1, h2, h3, h4 { color: var(--ink); font-weight: 400; line-height: 1.4; }
 h1 { margin: 0 0 28px; font-size: 30px; letter-spacing: 0.14em; }

@@ -18,3 +18,4 @@ exclude:
   - scripts/
   - Gemfile
   - Gemfile.lock
+  - Makefile
