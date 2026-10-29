@@ -6,6 +6,22 @@
   function updateMenu() { menu.open = !narrow.matches; }
   updateMenu();
   narrow.addEventListener('change', updateMenu);
+  var menuToggle = menu.querySelector(':scope > summary');
+  menu.addEventListener('toggle', function () {
+    menuToggle.setAttribute('aria-label', menu.open ? 'Close menu' : 'Open menu');
+  });
+  menu.addEventListener('click', function (event) {
+    if (narrow.matches && event.target.closest('a')) menu.open = false;
+  });
+  document.addEventListener('click', function (event) {
+    if (narrow.matches && !menu.contains(event.target)) menu.open = false;
+  });
+  document.addEventListener('keydown', function (event) {
+    if (event.key === 'Escape' && narrow.matches && menu.open) {
+      menu.open = false;
+      menuToggle.focus();
+    }
+  });
 
   document.querySelectorAll('.page-menu').forEach(function (item) {
     var sections = item.querySelector('.section-menu');
@@ -25,6 +41,7 @@
       if (event.key === 'Escape') {
         item.querySelector('.page-parent').focus();
         sections.open = false;
+        event.stopPropagation();
       }
     });
     sections.querySelectorAll('a').forEach(function (link) {
