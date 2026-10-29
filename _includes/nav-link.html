@@ -11,7 +11,7 @@
   {% assign nav_outline = "" %}
 {% endif %}
 {% if nav_outline contains '<li' %}
-<div class="page-menu">
+<div class="page-menu{% if include.muted %} is-muted{% endif %}">
   <a class="page-parent" href="{{ nav_base }}"{% if page.url == include.url %} aria-current="page"{% endif %}>{{ include.label }}</a>
   <details class="section-menu">
     <summary aria-label="Show {{ include.label | escape }} sections"><span aria-hidden="true">⌄</span></summary>
@@ -21,5 +21,5 @@
   </details>
 </div>
 {% else %}
-<a href="{{ nav_base }}"{% if page.url == include.url %} aria-current="page"{% endif %}>{{ include.label }}</a>
+<a{% if include.muted %} class="is-muted"{% endif %} href="{{ nav_base }}"{% if page.url == include.url %} aria-current="page"{% endif %}>{{ include.label }}</a>
 {% endif %}

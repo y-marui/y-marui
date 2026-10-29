@@ -18,7 +18,7 @@ H2 は次の順序とし、従来の分類（Seminars、Media、Transit など�
 
 - メニュー表示と見出しは英語で統一します。
 - 新しい分類は `links/index.md` に追加します。
-- フロントマターの `wide: true` と `link_tiles: true` を維持します。
+- 本文幅は通常のページと同じにし、フロントマターの `link_tiles: true` を維持します。
 - JavaScript が無効でも、通常のリンク付き箇条書きとして読めます。
 
 ## Link Format

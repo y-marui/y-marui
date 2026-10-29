@@ -8,9 +8,12 @@ The custom skin follows `web-ymarui` and `web-sendaicmc`: white background, char
 
 ## Layout and Behavior
 
+Browser titles use the rendered H1 followed by ` | Yukihiro Marui Ph.D.`; the top page uses only `Yukihiro Marui Ph.D.` to avoid repetition. SEO metadata remains enabled without generating a second title tag.
+
 - Shared files: `_layouts/default.html`, `assets/css/style.scss`, and `assets/js/site.js`.
 - The header uses web-sendaicmc’s fading white veil, extending 32px below the header with the same opacity stops.
 - The desktop menu is centered, with no separate brand label at the upper left. A monochrome 20px GitHub icon links to `https://github.com/y-marui` in a new tab at the upper right, following web-sendaicmc’s social-link placement; its inline SVG is shared with web-ymarui (Simple Icons, CC0).
+- On product pages, Top and Products retain the regular ink color; product names, product-specific pages, their dropdown links, and store links use `#707478`, matching web-sendaicmc’s Internal item.
 - Site and product menus retain their existing Liquid includes and data. At 1200px and below, the menu uses native `details` / `summary`; without JavaScript, it starts expanded. No links depend on JavaScript.
 - The old fixed sidebar becomes a dropdown beneath each internal page tab in the header, containing section links only. Parent labels are normal page links; adjacent disclosure controls open the section list on touch screens. On desktop, each dropdown is centered beneath its menu label. Narrow-screen dropdowns align with the right edge to stay within the viewport. Each outline is generated from the target page at build time and links directly to its section anchors, including from other pages. Pages without sections keep a plain link. There is no separate On this page tab. It supports mouse hover at any viewport width, a native disclosure control, keyboard focus, and Escape to close. Parent links always navigate directly; hovering them opens the dropdown independently. The parent underline remains while open; dropdown rows use pale gray backgrounds, white separators, and a darker hover fill without underlines or outer borders. Ordinary pages use an 820px column; `wide: true` pages use up to 1200px.
 - Existing Markdown, permalinks, store links, legal content, contact button, and link tiles remain in place.

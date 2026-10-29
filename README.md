@@ -10,9 +10,7 @@ Stacking tools into something useful for research and daily life
 - [dev-charter](https://github.com/y-marui/dev-charter): Personal development charter for AI-assisted software projects.
 - [dotfiles](https://github.com/y-marui/dotfiles)
 
-#### Templates
-
-Templates for AI-native projects using Claude Code and Codex.
+#### Templates for AI-native projects using Claude Code and Codex
 
 | Repository | Description |
 | --- | --- |

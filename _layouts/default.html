@@ -4,7 +4,12 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% seo %}
+    {% seo title=false %}
+    {% assign page_heading = page.title | default: site.title %}
+    {% if content contains '<h1' %}
+      {% assign page_heading = content | split: '</h1>' | first | split: '<h1' | last | split: '>' | shift | join: '>' | strip_html | strip %}
+    {% endif %}
+    <title>{% unless page.url == '/' %}{{ page_heading | escape }} | {% endunless %}Yukihiro Marui Ph.D.</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     {% include head-custom.html %}
   </head>

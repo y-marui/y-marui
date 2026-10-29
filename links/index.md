@@ -1,6 +1,5 @@
 ---
 layout: default
-wide: true
 title: Links
 permalink: /links/
 link_tiles: true

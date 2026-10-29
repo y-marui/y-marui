@@ -2,23 +2,23 @@
   <div class="product-nav__items">
     {% include nav-link.html url="/" label="Top" %}
     {% include nav-link.html url="/products/" label="Products" %}
-    {% include nav-link.html url=page.product.base label=page.product.name %}
+    {% include nav-link.html url=page.product.base label=page.product.name muted=true %}
     {% if page.product.wiki %}
     {% assign section_url = page.product.base | append: "wiki/" %}
-    {% include nav-link.html url=section_url label="Usage" %}
+    {% include nav-link.html url=section_url label="Usage" muted=true %}
     {% endif %}
     {% unless page.product.hide_changelog %}
     {% assign section_url = page.product.base | append: "changelog/" %}
-    {% include nav-link.html url=section_url label="Changelog" %}
+    {% include nav-link.html url=section_url label="Changelog" muted=true %}
     {% endunless %}
     {% assign section_url = page.product.base | append: "privacy/" %}
-    {% include nav-link.html url=section_url label="Privacy Policy" %}
+    {% include nav-link.html url=section_url label="Privacy Policy" muted=true %}
     {% unless page.product.hide_terms %}
     {% assign section_url = page.product.base | append: "terms/" %}
-    {% include nav-link.html url=section_url label="Terms of Use" %}
+    {% include nav-link.html url=section_url label="Terms of Use" muted=true %}
     {% endunless %}
     {% for store in page.product.stores %}
-    <a href="{{ store.url }}" rel="noopener noreferrer">{{ store.label }}</a>
+    <a class="is-muted" href="{{ store.url }}" rel="noopener noreferrer">{{ store.label }}</a>
     {% endfor %}
   </div>
 </nav>
