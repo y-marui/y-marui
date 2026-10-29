@@ -185,3 +185,9 @@ body[data-page-url="/"] #support + p a { display: inline-flex; }
   .section-menu > summary span { display: none; }
   .section-menu > summary::after { content: "More"; }
 }
+
+/* Section lists are only available alongside the full desktop menu. */
+@media (max-width: 1200px) {
+  .nav-menu .section-menu { display: none; }
+  .nav-menu .page-parent { padding-right: 20px; }
+}

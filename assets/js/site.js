@@ -6,6 +6,9 @@
   function updateMenu() { menu.open = !narrow.matches; }
   updateMenu();
   narrow.addEventListener('change', updateMenu);
+  narrow.addEventListener('change', function () {
+    if (narrow.matches) document.querySelectorAll('.section-menu').forEach(function (item) { item.open = false; });
+  });
   var menuToggle = menu.querySelector(':scope > summary');
   function updateMenuLabel() {
     menuToggle.setAttribute('aria-label', menu.open ? 'Close menu' : 'Open menu');
@@ -28,13 +31,13 @@
   document.querySelectorAll('.page-menu').forEach(function (item) {
     var sections = item.querySelector('.section-menu');
     item.addEventListener('pointerenter', function (event) {
-      if (event.pointerType === 'mouse') sections.open = true;
+      if (event.pointerType === 'mouse' && !narrow.matches) sections.open = true;
     });
     item.addEventListener('pointerleave', function (event) {
       if (event.pointerType === 'mouse' && !item.contains(document.activeElement)) sections.open = false;
     });
     item.addEventListener('focusin', function () {
-      if (window.matchMedia('(hover: hover)').matches) sections.open = true;
+      if (!narrow.matches && window.matchMedia('(hover: hover)').matches) sections.open = true;
     });
     item.addEventListener('focusout', function (event) {
       if (!item.contains(event.relatedTarget)) sections.open = false;
