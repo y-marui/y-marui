@@ -8,6 +8,10 @@ permalink: /products/
 
 ## Browser Extensions
 
+### [Improved Panel for Google Scholar – Explore Faster](chrome-improved-panel-for-google-scholar/)
+
+Read Google Scholar recommendations with fewer repeated clicks. Chrome and Firefox store publication is being prepared.
+
 ### [Library Check for Zotero – Prevent Duplicates](chrome-library-check-for-zotero/) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/)
 
 Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
