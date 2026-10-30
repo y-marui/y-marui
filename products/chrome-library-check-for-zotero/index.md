@@ -7,7 +7,7 @@ product:
   base: /products/chrome-library-check-for-zotero/
   stores:
     - label: Chrome Web Store
-      url: https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai
+      url: https://chromewebstore.google.com/detail/njakhbdjddaflodiogjmbledldjjbbai
     - label: Firefox Add-ons
       url: https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/
 ---

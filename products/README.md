@@ -8,6 +8,7 @@
 - このリポジトリには公開情報だけを置きます。ソースコード、シークレット、個人情報、内部の運用構成、不要な開発メモは置きません。
 - 各製品の紹介文は、ストア掲載ページと製品ホームで同じ内容を基本とします。ストアページでは製品ホームへのリンクを案内先として使います。
 - 製品ホームの一覧は `products/index.md`、サイトトップの一覧はルートの `README.md` を更新します。
+- 製品一覧は、同じカテゴリ内で表示名のアルファベット昇順（大文字・小文字を区別しない）に並べます。カテゴリ自体の順序は維持します。
 - `products/index.md`（`/products/` の一覧ページ）は英語のみで記述します。各製品の `index.md` も英語のみで記述します（日本語の正式版は `privacy.md` と `terms.md` に置きます）。
 - Gist は移行元として扱います。GitHub Pages 上のページとストア設定の移行が安定したことを確認してから削除します。
 
@@ -27,6 +28,8 @@ products/<github-repository-name>/
 `wiki.md` を追加する場合は、当該製品のすべてのページの front matter に `product.wiki: true` を設定します。これにより、共通ナビゲーションに「使い方」が表示されます。
 
 ## Product Home and Store Links
+
+Chrome Web Store のURLは製品名部分を含めず、`https://chromewebstore.google.com/detail/<拡張機能ID>` に統一します。サポートページはその末尾に `/support` を付けます。
 
 `index.md` には次を掲載します。
 

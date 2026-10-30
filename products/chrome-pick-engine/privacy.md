@@ -5,6 +5,9 @@ permalink: /products/chrome-pick-engine/privacy/
 product:
   name: Pick Engine
   base: /products/chrome-pick-engine/
+  stores:
+    - label: Chrome Web Store
+      url: https://chromewebstore.google.com/detail/ihcfdhceinllkcdopimkbofloecbgdgc
 ---
 
 # Pick Engine

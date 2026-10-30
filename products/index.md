@@ -8,17 +8,21 @@ permalink: /products/
 
 ## Browser Extensions
 
+### [Focus Scope - Smart Website Blocker](chrome-focus-scope/) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/dnpccglkhnnlogdolajjhehicbegnlcg) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/focus-scope/)
+
+Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
+
 ### [Improved Panel for Google Scholar – Explore Faster](chrome-improved-panel-for-google-scholar/)
 
 Read Google Scholar recommendations with fewer repeated clicks. Chrome and Firefox store publication is being prepared.
 
-### [Library Check for Zotero – Prevent Duplicates](chrome-library-check-for-zotero/) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/)
+### [Library Check for Zotero – Prevent Duplicates](chrome-library-check-for-zotero/) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/njakhbdjddaflodiogjmbledldjjbbai) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/)
 
 Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves.
 
-### [Focus Scope - Smart Website Blocker](chrome-focus-scope/) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/focus-scope/)
+### [Pick Engine – Route Your Searches](chrome-pick-engine/) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/ihcfdhceinllkcdopimkbofloecbgdgc)
 
-Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
+Splits your address-bar search across the search engines you choose, with no external relay.
 
 ## Apps
 

@@ -14,11 +14,11 @@ Stacking tools into something useful for research and daily life
 
 | Repository | Description |
 | --- | --- |
-| [python-package-template](https://github.com/y-marui/python-package-template) | Python package template for uv |
-| [python-closed-template](https://github.com/y-marui/python-closed-template) | Private Python package template for uv |
-| [chrome-closed-template](https://github.com/y-marui/chrome-closed-template) | Private Chrome extension template |
-| [swift-closed-template](https://github.com/y-marui/swift-closed-template) | Private Swift app template |
 | [alfred-workflow-template](https://github.com/y-marui/alfred-workflow-template) | Alfred workflow template |
+| [chrome-closed-template](https://github.com/y-marui/chrome-closed-template) | Private Chrome extension template |
+| [python-closed-template](https://github.com/y-marui/python-closed-template) | Private Python package template for uv |
+| [python-package-template](https://github.com/y-marui/python-package-template) | Python package template for uv |
+| [swift-closed-template](https://github.com/y-marui/swift-closed-template) | Private Swift app template |
 
 ### Python
 
@@ -26,31 +26,31 @@ Stacking tools into something useful for research and daily life
 
 | Repository | Description |
 | --- | --- |
-| [python-matplotlib-extension](https://github.com/y-marui/python-matplotlib-extension) | An extension library for matplotlib |
 | [python-astropy-extension](https://github.com/y-marui/python-astropy-extension) |  |
+| [python-matplotlib-extension](https://github.com/y-marui/python-matplotlib-extension) | An extension library for matplotlib |
 | [python-matplotlib-to-originlab](https://github.com/y-marui/python-matplotlib-to-originlab) | Python tools to convert matplotlib figures to OriginLab graphs, to send data to Origin, and perform basic plotting functions in Origin. |
 
 #### Others
 
 | Repository | Description |
 | --- | --- |
-| [python-stack-schematic-generator](https://github.com/y-marui/python-stack-schematic-generator) | Generate Stack Schematic |
-| [python-spotify-tools](https://github.com/y-marui/python-spotify-tools) | Spotify playlist management scripts for personal use |
-| [python-header-maker](https://github.com/y-marui/python-header-maker) | Python GUI for making header image for note.com |
 | [python-docx-redline](https://github.com/y-marui/python-docx-redline) | Minimal, safe Word (.docx) tracked-change (redline) editing CLI — comparison-free proofreading edits as real Word revisions |
+| [python-header-maker](https://github.com/y-marui/python-header-maker) | Python GUI for making header image for note.com |
+| [python-spotify-tools](https://github.com/y-marui/python-spotify-tools) | Spotify playlist management scripts for personal use |
+| [python-stack-schematic-generator](https://github.com/y-marui/python-stack-schematic-generator) | Generate Stack Schematic |
 
 ### Alfred Workflows
 
 | Repository | Description |
 | --- | --- |
-| [alfred-quick-txt-save](https://github.com/y-marui/alfred-quick-txt-save) | Save selected text or clipboard content as a file instantly using Alfred |
-| [alfred-note-table-converter](https://github.com/y-marui/alfred-note-table-converter) | Convert tables between Markdown and LaTeX for note |
-| [alfred-note-md-template](https://github.com/y-marui/alfred-note-md-template) | Add Markdown style template to note |
-| [alfred-sequential-number](https://github.com/y-marui/alfred-sequential-number) | An Alfred workflow to generate sequential numbers |
-| [alfred-paste-formatted-date](https://github.com/y-marui/alfred-paste-formatted-date) | Generate and paste dates in multiple formats |
-| [alfred-password-generator](https://github.com/y-marui/alfred-password-generator) | Alfred workflow to generate passwords in an arbitrary way |
 | [alfred-clean-invisible-text](https://github.com/y-marui/alfred-clean-invisible-text) | Alfred Workflow for reviewing and cleaning dangerous invisible Unicode characters locally |
 | [alfred-markdown-ref](https://github.com/y-marui/alfred-markdown-ref) | Alfred Workflow for renumbering Markdown reference-style links |
+| [alfred-note-md-template](https://github.com/y-marui/alfred-note-md-template) | Add Markdown style template to note |
+| [alfred-note-table-converter](https://github.com/y-marui/alfred-note-table-converter) | Convert tables between Markdown and LaTeX for note |
+| [alfred-password-generator](https://github.com/y-marui/alfred-password-generator) | Alfred workflow to generate passwords in an arbitrary way |
+| [alfred-paste-formatted-date](https://github.com/y-marui/alfred-paste-formatted-date) | Generate and paste dates in multiple formats |
+| [alfred-quick-txt-save](https://github.com/y-marui/alfred-quick-txt-save) | Save selected text or clipboard content as a file instantly using Alfred |
+| [alfred-sequential-number](https://github.com/y-marui/alfred-sequential-number) | An Alfred workflow to generate sequential numbers |
 
 ### Go
 
@@ -72,9 +72,10 @@ See the [Products page](products/index.md) for details.
 
 | Product | Description |
 | --- | --- |
+| [Focus Scope - Smart Website Blocker](products/chrome-focus-scope/index.md) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/dnpccglkhnnlogdolajjhehicbegnlcg) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/focus-scope/) | Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules. |
 | [Improved Panel for Google Scholar – Explore Faster](products/chrome-improved-panel-for-google-scholar/index.md) | Read Google Scholar recommendations with fewer repeated clicks. Store publication is being prepared. |
-| [Library Check for Zotero – Prevent Duplicates](products/chrome-library-check-for-zotero/index.md) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/) | Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves. |
-| [Focus Scope - Smart Website Blocker](products/chrome-focus-scope/index.md) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/focus-scope/) | Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules. |
+| [Library Check for Zotero – Prevent Duplicates](products/chrome-library-check-for-zotero/index.md) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/njakhbdjddaflodiogjmbledldjjbbai) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/) | Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves. |
+| [Pick Engine – Route Your Searches](products/chrome-pick-engine/index.md) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/ihcfdhceinllkcdopimkbofloecbgdgc) | Splits your address-bar search across the search engines you choose, with no external relay. |
 
 ### Web Apps
 

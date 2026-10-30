@@ -26,6 +26,8 @@ Charter reference: read `docs/dev-charter/CHARTER_INDEX.md` to find the topic, t
 
 ## Project-Specific Rules
 
+- `README.md` の Projects・Products と `products/index.md` の一覧は、同じカテゴリ内の項目を表示名のアルファベット昇順（大文字・小文字を区別しない）に並べる。表ではヘッダーを固定し、カテゴリ自体の順序は維持する。
+
 - Product pages follow `products/README.md`. That file takes precedence over the charter for product pages (store and legal text requirements).
 - Product home pages and `products/index.md` are English only. Japanese appears only in the official versions of `privacy.md` and `terms.md`.
 - Never print the support email address in Markdown or HTML. Use `{% include contact.html %}`.
