@@ -72,6 +72,7 @@ See the [Products page](products/index.md) for details.
 
 | Product | Description |
 | --- | --- |
+| [Improved Panel for Google Scholar – Explore Faster](products/chrome-improved-panel-for-google-scholar/index.md) | Read Google Scholar recommendations with fewer repeated clicks. Store publication is being prepared. |
 | [Library Check for Zotero – Prevent Duplicates](products/chrome-library-check-for-zotero/index.md) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/zotero-library-checker/njakhbdjddaflodiogjmbledldjjbbai) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/) | Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves. |
 | [Focus Scope - Smart Website Blocker](products/chrome-focus-scope/index.md) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/focus-scope-smart-website/dnpccglkhnnlogdolajjhehicbegnlcg) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/focus-scope/) | Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules. |
 

@@ -103,6 +103,8 @@ product:
 
 ## Current Products
 
+- `chrome-improved-panel-for-google-scholar`
+
 - `chrome-focus-scope`
 - `chrome-library-check-for-zotero`
 - `gwa-log-pair`
