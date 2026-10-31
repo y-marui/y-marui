@@ -12,9 +12,9 @@ permalink: /products/
 
 Block SNS and time-wasting sites. A site blocker to keep your focus going with sprints and day-of-week schedules.
 
-### [Improved Panel for Google Scholar – Explore Faster](chrome-improved-panel-for-google-scholar/)
+### [Improved Panel for Google Scholar – Explore Faster](chrome-improved-panel-for-google-scholar/) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/improved-panel-for-google/cihbkinmpknihmjklabiepkbahmnhopi)
 
-Read Google Scholar recommendations with fewer repeated clicks. Chrome and Firefox store publication is being prepared.
+Read Google Scholar recommendations with fewer repeated clicks. Firefox Add-ons publication is being prepared.
 
 ### [Library Check for Zotero – Prevent Duplicates](chrome-library-check-for-zotero/) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/njakhbdjddaflodiogjmbledldjjbbai) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/)
 
