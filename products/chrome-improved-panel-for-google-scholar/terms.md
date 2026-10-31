@@ -5,7 +5,9 @@ permalink: /products/chrome-improved-panel-for-google-scholar/terms/
 product:
   name: Improved Panel for Google Scholar
   base: /products/chrome-improved-panel-for-google-scholar/
-  stores: []
+  stores:
+    - label: Chrome Web Store
+      url: https://chromewebstore.google.com/detail/improved-panel-for-google/cihbkinmpknihmjklabiepkbahmnhopi
 ---
 
 # Improved Panel for Google Scholar – Explore Faster

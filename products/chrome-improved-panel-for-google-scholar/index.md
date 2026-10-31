@@ -5,7 +5,9 @@ permalink: /products/chrome-improved-panel-for-google-scholar/
 product:
   name: Improved Panel for Google Scholar
   base: /products/chrome-improved-panel-for-google-scholar/
-  stores: []
+  stores:
+    - label: Chrome Web Store
+      url: https://chromewebstore.google.com/detail/improved-panel-for-google/cihbkinmpknihmjklabiepkbahmnhopi
 ---
 
 # Improved Panel for Google Scholar – Explore Faster
@@ -31,13 +33,15 @@ Settings are stored locally in your browser. The extension does not send paper i
 
 This is an independently developed extension and is not provided or endorsed by Google.
 
-## Availability
+## Install
 
-Chrome Web Store and Firefox Add-ons publication is being prepared. Store links will be added when the listings are available.
+[Install from the Chrome Web Store](https://chromewebstore.google.com/detail/improved-panel-for-google/cihbkinmpknihmjklabiepkbahmnhopi).
+
+Firefox Add-ons publication is being prepared. The link will be added when the listing is available.
 
 ## Support
 
-If you have a question, find a bug, or want to request a feature, please contact:
+If you have a question, find a bug, or want to request a feature, please use the [support page on the Chrome Web Store](https://chromewebstore.google.com/detail/improved-panel-for-google/cihbkinmpknihmjklabiepkbahmnhopi/support), or contact:
 
 {% include contact.html %}
 
