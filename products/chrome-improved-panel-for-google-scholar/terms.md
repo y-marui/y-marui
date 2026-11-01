@@ -1,4 +1,5 @@
 ---
+description: "Terms of Use for Improved Panel for Google Scholar, with official Japanese text and an English reference translation."
 layout: default
 title: Improved Panel for Google Scholar Terms of Use
 permalink: /products/chrome-improved-panel-for-google-scholar/terms/
@@ -7,7 +8,7 @@ product:
   base: /products/chrome-improved-panel-for-google-scholar/
   stores:
     - label: Chrome Web Store
-      url: https://chromewebstore.google.com/detail/improved-panel-for-google/cihbkinmpknihmjklabiepkbahmnhopi
+      url: https://chromewebstore.google.com/detail/cihbkinmpknihmjklabiepkbahmnhopi
 ---
 
 # Improved Panel for Google Scholar – Explore Faster

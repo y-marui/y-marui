@@ -1,4 +1,5 @@
 ---
+description: "Published changes to Improved Panel for Google Scholar."
 layout: default
 title: Improved Panel for Google Scholar Changelog
 permalink: /products/chrome-improved-panel-for-google-scholar/changelog/
@@ -7,7 +8,7 @@ product:
   base: /products/chrome-improved-panel-for-google-scholar/
   stores:
     - label: Chrome Web Store
-      url: https://chromewebstore.google.com/detail/improved-panel-for-google/cihbkinmpknihmjklabiepkbahmnhopi
+      url: https://chromewebstore.google.com/detail/cihbkinmpknihmjklabiepkbahmnhopi
 ---
 
 # Improved Panel for Google Scholar – Explore Faster Changelog
@@ -23,4 +24,4 @@ Version 1.0.0 published on the Chrome Web Store.
 - Open paper links in background tabs.
 - Support seven interface languages and light, dark, and system themes.
 
-Firefox Add-ons publication is being prepared.
+Firefox is not published on Add-ons. Future Firefox support remains under consideration.
