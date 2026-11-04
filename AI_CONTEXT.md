@@ -21,7 +21,12 @@ Charter reference: read `docs/dev-charter/CHARTER_INDEX.md` to find the topic, t
 
 ### Charter Lookup
 
-If a question relates to the charter, do **not** search every file; follow these steps:
+Before starting work, check whether any of the following applies. If so, follow the steps below before editing.
+
+- Changing CI/workflows, dependencies, licenses, or PR/branch operations
+- Unsure how to proceed, or the question relates to the charter
+
+Do **not** search every file; follow these steps:
 
 1. Read `docs/dev-charter/CHARTER_INDEX.md` and identify the relevant topic file
 2. Read only the identified file(s) (normally 1-2)

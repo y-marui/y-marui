@@ -91,6 +91,18 @@ repos:
         pass_filenames: false
         always_run: true
 
+  # ----------------------------------------------------------------
+  # Hook scripts exist (entry targets and paired helper scripts)
+  # ----------------------------------------------------------------
+  - repo: local
+    hooks:
+      - id: check-hook-scripts
+        name: Check hook scripts exist
+        language: script
+        entry: scripts/check-hook-scripts.sh
+        pass_filenames: false
+        always_run: true
+
 
   # ----------------------------------------------------------------
   # Local dev-charter version check
