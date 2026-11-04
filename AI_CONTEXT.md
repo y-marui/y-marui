@@ -19,6 +19,16 @@ Charter reference: read `docs/dev-charter/CHARTER_INDEX.md` to find the topic, t
 - Conventional Commits, Draft PRs for AI-created PRs (`docs/dev-charter/PROJECT_LIFECYCLE.md`, `topics/CI_POLICY.md`).
 - Secrets and personal information are never committed (`docs/dev-charter/SECURITY_POLICY.md`).
 
+### Charter Lookup
+
+If a question relates to the charter, do **not** search every file; follow these steps:
+
+1. Read `docs/dev-charter/CHARTER_INDEX.md` and identify the relevant topic file
+2. Read only the identified file(s) (normally 1-2)
+3. Propose or confirm with the user after consulting it
+
+Do not guess; consult the charter before proposing or asking.
+
 ## Document Sync Rule
 
 仕様・ルール・構成に変更が生じたとき、変更と同じ作業内で関連ドキュメントを更新する。
