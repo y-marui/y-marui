@@ -77,6 +77,13 @@ See the [Products page](products/index.md) for details.
 | [Library Check for Zotero – Prevent Duplicates](products/chrome-library-check-for-zotero/index.md) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/njakhbdjddaflodiogjmbledldjjbbai) [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/ja/firefox/addon/library-check-for-zotero/) | Check instantly whether the paper you're viewing is already saved in Zotero. A simple tool to prevent duplicate saves. |
 | [Pick Engine – Route Your Searches](products/chrome-pick-engine/index.md) [![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/ihcfdhceinllkcdopimkbofloecbgdgc) | Splits your address-bar search across the search engines you choose, with no external relay. |
 
+### Apps
+
+| Product | Description |
+| --- | --- |
+| [Glance Cal - Tasks and events as widgets](products/swift-glance-cal/index.md) ![Status](https://img.shields.io/badge/status-not%20yet%20published-orange) | View your Google Calendar events and Google Tasks from macOS and iOS widgets. The app itself also lets you create, edit, and delete events and tasks. |
+| [Stick Mark - Sticky Markdown Notes](products/stick-mark/index.md) ![Status](https://img.shields.io/badge/status-not%20yet%20published-orange) | Markdown notes for Mac and iPhone. Show a note as a desktop widget, and sync with iCloud. |
+
 ### Web Apps
 
 | Product | Description |
@@ -87,7 +94,7 @@ See the [Products page](products/index.md) for details.
 
 | Product | Description |
 | --- | --- |
-| [Log Pair](products/gwa-log-pair/index.md) | Google Workspace Add-on that merges paired calendar events, such as clock-in and clock-out events. |
+| [Log Pair](products/gwa-log-pair/index.md) ![Status](https://img.shields.io/badge/status-not%20yet%20published-orange) | Google Workspace Add-on that merges paired calendar events, such as clock-in and clock-out events. |
 
 ### LINE Stickers
 

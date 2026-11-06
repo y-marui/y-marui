@@ -27,7 +27,11 @@ Splits your address-bar search across the search engines you choose, with no ext
 
 ## Apps
 
-### [Stick Mark - Sticky Markdown Notes](stick-mark/)
+### [Glance Cal - Tasks and events as widgets](swift-glance-cal/) ![Status](https://img.shields.io/badge/status-not%20yet%20published-orange)
+
+View your Google Calendar events and Google Tasks from macOS and iOS widgets. The app itself also lets you create, edit, and delete events and tasks.
+
+### [Stick Mark - Sticky Markdown Notes](stick-mark/) ![Status](https://img.shields.io/badge/status-not%20yet%20published-orange)
 
 Markdown notes for Mac and iPhone. Show a note as a desktop widget, and sync with iCloud.
 
@@ -39,7 +43,7 @@ Get an email when a preprint you follow is published as a journal article with a
 
 ## Google Workspace Add-ons
 
-### [Log Pair](gwa-log-pair/)
+### [Log Pair](gwa-log-pair/) ![Status](https://img.shields.io/badge/status-not%20yet%20published-orange)
 
 Google Workspace Add-on that merges paired calendar events, such as clock-in and clock-out events.
 
