@@ -5,7 +5,6 @@ permalink: /products/stick-mark/
 product:
   name: Stick Mark
   base: /products/stick-mark/
-  hide_terms: true
   hide_changelog: true
 ---
 
@@ -24,3 +23,4 @@ Stick Mark is developed by an individual developer. Replies may take some time.
 ## Pages
 
 - [Privacy Policy](privacy/)
+- [Terms of Use](terms/)

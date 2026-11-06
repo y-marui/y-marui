@@ -5,7 +5,6 @@ permalink: /products/stick-mark/privacy/
 product:
   name: Stick Mark
   base: /products/stick-mark/
-  hide_terms: true
   hide_changelog: true
 ---
 

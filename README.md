@@ -82,6 +82,7 @@ See the [Products page](products/index.md) for details.
 | Product | Description |
 | --- | --- |
 | [Glance Cal - Tasks and events as widgets](products/swift-glance-cal/index.md) ![Status](https://img.shields.io/badge/status-not%20yet%20published-orange) | View your Google Calendar events and Google Tasks from macOS and iOS widgets. The app itself also lets you create, edit, and delete events and tasks. |
+| [Glance Task - Your tasks, always in glance](products/swift-glance-task/index.md) ![Status](https://img.shields.io/badge/status-not%20yet%20published-orange) | View and edit your Google Tasks from macOS and iOS widgets, and add tasks with Siri. |
 | [Stick Mark - Sticky Markdown Notes](products/stick-mark/index.md) ![Status](https://img.shields.io/badge/status-not%20yet%20published-orange) | Markdown notes for Mac and iPhone. Show a note as a desktop widget, and sync with iCloud. |
 
 ### Web Apps

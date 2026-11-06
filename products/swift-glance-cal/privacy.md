@@ -5,7 +5,6 @@ permalink: /products/swift-glance-cal/privacy/
 product:
   name: Glance Cal
   base: /products/swift-glance-cal/
-  hide_terms: true
   hide_changelog: true
 ---
 

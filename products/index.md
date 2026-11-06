@@ -31,6 +31,10 @@ Splits your address-bar search across the search engines you choose, with no ext
 
 View your Google Calendar events and Google Tasks from macOS and iOS widgets. The app itself also lets you create, edit, and delete events and tasks.
 
+### [Glance Task - Your tasks, always in glance](swift-glance-task/) ![Status](https://img.shields.io/badge/status-not%20yet%20published-orange)
+
+View and edit your Google Tasks from macOS and iOS widgets, and add tasks with Siri.
+
 ### [Stick Mark - Sticky Markdown Notes](stick-mark/) ![Status](https://img.shields.io/badge/status-not%20yet%20published-orange)
 
 Markdown notes for Mac and iPhone. Show a note as a desktop widget, and sync with iCloud.

@@ -5,7 +5,6 @@ permalink: /products/swift-glance-cal/
 product:
   name: Glance Cal
   base: /products/swift-glance-cal/
-  hide_terms: true
   hide_changelog: true
 ---
 
@@ -24,3 +23,4 @@ Glance Cal is developed by an individual developer. Replies may take some time.
 ## Pages
 
 - [Privacy Policy](privacy/)
+- [Terms of Use](terms/)
