@@ -38,6 +38,37 @@ link_tiles: true
 * [日本物理学会](https://www.jps.or.jp/activities/meetings/future.php): 年次・秋季大会の日程
 * [日本磁気学会](https://www.magnetics.jp/event/nextannualconference/): 学術講演会の日程
 
+## Development
+
+開発・サービス運用に関するリンク集です。
+
+### Apple
+
+* [App Store Connect](https://appstoreconnect.apple.com/app): アプリの管理・配信
+* [CloudKit Dashboard](https://icloud.developer.apple.com/dashboard): iCloud コンテナの管理
+* [Identifiers](https://developer.apple.com/account/resources/identifiers/list): App ID などの識別子
+
+### Google
+
+* [Google Cloud Console](https://console.cloud.google.com): クラウドの管理
+* [Search Console](https://search.google.com/search-console): 検索パフォーマンスの管理
+
+### Browser Extensions
+
+* [Chrome Web Store Developer Dashboard](https://chrome.google.com/webstore/devconsole/): Chrome 拡張機能の公開
+* [Firefox Add-on Developer Hub](https://addons.mozilla.org/ja/developers/addons): Firefox アドオンの公開
+
+### Webmaster
+
+* [Bing Webmaster Tools](https://www.bing.com/webmasters): Bing の検索管理
+
+### Services
+
+* [LINE Creators Market](https://creator.line.me/my): LINE スタンプの管理
+* [Resend](https://resend.com/emails): メール送信
+* [Cloudflare](https://dash.cloudflare.com): DNS・CDN
+* [Xserver ドメイン](https://secure.xserver.ne.jp/xapanel/xdomain/index): ドメインの管理
+
 ## Hobby & Life
 
 趣味・生活に関するリンク集です。
@@ -141,6 +172,8 @@ link_tiles: true
 * [antique leaves](https://antique-leaves.com/?pid=110402255)
 * [仙台の余暇の過ごし方](https://note.com/y_mamanaranu/n/n2009394943ba): note
 * [みやぎオルレ](https://www.miyagiolle.jp/): 宮城のウォーキングコース
+* [まちりょく](https://mag.ssbj.jp/): 仙台市市民文化事業団の文化情報サイト
+* [とれたて仙台](https://toretate-sendai.com/): 仙台産農産物の情報
 
 ### Museums
 

@@ -9,8 +9,9 @@
 H2 は次の順序とし、従来の分類（Seminars、Media、Transit など）はその下の H3 に置きます。
 
 1. Research & Work
-2. Hobby & Life
-3. Sendai
+2. Development
+3. Hobby & Life
+4. Sendai
 
 旧 URL `/links/research/`、`/links/other/`、`/links/sendai/` は、各 HTML のリダイレクトから統合ページの対応する H2 に移動します。リンク本文は重複して管理しません。
 
